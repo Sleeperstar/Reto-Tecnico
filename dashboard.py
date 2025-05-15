@@ -5,10 +5,7 @@ import plotly.express as px
 from PIL import Image # Import Pillow for image handling
 import os # Importar os para leer variables de entorno
 
-# --- PARÁMETROS DE CONEXIÓN A POSTGRESQL ---
-# Ahora se leen desde variables de entorno.
-# Define valores por defecto si las variables de entorno no están configuradas
-# (útil para desarrollo local, pero asegúrate de configurar las variables en producción).
+# --- PARÁMETROS DE CONEXIÓN A SQL ---
 DB_NAME = os.environ.get('DB_NAME', 'tu_basededatos')
 DB_USER = os.environ.get('DB_USER', 'tu_usuario')
 DB_PASSWORD = os.environ.get('DB_PASSWORD', 'tu_contraseña')
@@ -27,7 +24,7 @@ CONN_PARAMS = {
 @st.cache_resource # Usar cache_resource para conexiones
 def init_connection():
     """
-    Inicializa la conexión a la base de datos PostgreSQL.
+    Inicializa la conexión a la base de datos SQL.
     Retorna el objeto de conexión.
     """
     # Verificar si las variables de entorno esenciales están configuradas
@@ -46,7 +43,7 @@ def init_connection():
         conn = psycopg2.connect(**CONN_PARAMS)
         return conn
     except psycopg2.OperationalError as e:
-        st.error(f"Error al conectar con PostgreSQL: {e}")
+        st.error(f"Error al conectar con SQL: {e}")
         st.error(
             "Por favor, verifica los parámetros de conexión. Si estás desplegando, "
             "asegúrate de que las variables de entorno (Secrets en Streamlit Cloud) "
@@ -110,10 +107,10 @@ if option == "Inicio":
     - **Análisis de Shows**: Explora estadísticas y gráficos sobre los títulos disponibles.
     - **Buscar Shows por Título**: Realiza búsquedas específicas en la tabla de shows.
 
-    Esta aplicación se conecta a una base de datos PostgreSQL que contiene datos procesados
+    Esta aplicación se conecta a una base de datos SQL que contiene datos procesados
     de Netflix.
     """)
-    st.info("Asegúrate de que tu base de datos PostgreSQL esté en ejecución y accesible.")
+    st.info("La barra de Navegacion esta al lado izquierdo")
 
     st.markdown("---") # Separador visual
     st.subheader("Consulta Rápida: Shows Añadidos por Año")
@@ -373,4 +370,4 @@ elif option == "Buscar Shows por Título":
 
 # --- Pie de página (opcional) ---
 st.sidebar.markdown("---")
-st.sidebar.info("Aplicación creada con Streamlit y PostgreSQL.")
+st.sidebar.info("Aplicación creada con Streamlit por Jhampier Quispe")
