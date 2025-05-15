@@ -1,0 +1,4528 @@
+director_id,director
+1,kirsten johnson
+2,unknown
+3,julien leclercq
+4,mike flanagan
+5,"robert cullen, josé luis ucha"
+6,haile gerima
+7,andy devonshire
+8,theodore melfi
+9,kongkiat komesiri
+10,christian schwochow
+11,bruno garotti
+12,"pedro de echave garcía, pablo azorín williams"
+13,adam salky
+14,olivier megaton
+15,k.s. ravikumar
+16,"alex woo, stanley moore"
+17,s. shankar
+18,rajiv menon
+19,dennis dugan
+20,scott stewart
+21,robert luketic
+22,"ashwiny iyer tiwari, abhishek chaubey, saket chaudhary"
+23,daniel sandu
+24,cédric jimenez
+25,george nolfi
+26,steven spielberg
+27,jeannot szwarc
+28,joe alves
+29,joseph sargent
+30,tyler greco
+31,daniel espinosa
+32,bunmi ajakaiye
+33,antoine fuqua
+34,toshiya shinohara
+35,masahiko murata
+36,hajime kamegaki
+37,hirotsugu kawasaki
+38,toshiyuki tsuru
+39,tensai okamura
+40,david yarovesky
+41,"hanns-bruno kammertöns, vanessa nöcker, michael wech"
+42,david a. vargas
+43,kemi adetiba
+44,ben simms
+45,prakash satam
+46,delhiprasad deenadayalan
+47,tomer eshed
+48,cedric nicolas-troyan
+49,"jjc skillz, funke akindele"
+50,thomas sieben
+51,marcus clarke
+52,alice waddington
+53,"mona achache, patricia tourancheau"
+54,alexis almström
+55,raja gosnell
+56,stephen kijak
+57,"chapman way, maclain way"
+58,jason hehir
+59,yemi amodu
+60,lijo jose pellissery
+61,david de vos
+62,"luis alfaro, javier gómez santander"
+63,sara colangelo
+64,stephen herek
+65,rahul rawail
+66,jane campion
+67,nagesh kukunoor
+68,luke holland
+69,shanker raman
+70,jp habac
+71,vidhu vinod chopra
+72,mark rosman
+73,gilles paquet-brenner
+74,lasse hallström
+75,scott pleydell-pearce
+76,ridley scott
+77,neill blomkamp
+78,phillip noyce
+79,renny harlin
+80,anthony minghella
+81,simon wincer
+82,spike lee
+83,sebastián schindel
+84,steven c. miller
+85,richard lagravenese
+86,martin campbell
+87,reginald hudlin
+88,"george jackson, doug mchenry"
+89,eric meza
+90,gerhard mostert
+91,michael martin
+92,michael rymer
+93,"andrew lau wai-keung, alan mak"
+94,brett weiner
+95,jim henson
+96,gary winick
+97,danishka esterhazy
+98,troy byer
+99,pang ho-cheung
+100,tim burton
+101,david zucker
+102,kinka usher
+103,sergio leone
+104,"matthew o'callaghan, todd wilderman"
+105,"bobby farrelly, peter farrelly"
+106,wolfgang petersen
+107,peter spirer
+108,michael carney
+109,richard linklater
+110,amy rice
+111,randal kleiser
+112,michael ritchie
+113,j. lee thompson
+114,"evan goldberg, seth rogen"
+115,tom shadyac
+116,peter segal
+117,malcolm d. lee
+118,"ramzy bedia, éric judor"
+119,sharan koppisetty
+120,taylor sheridan
+121,sachin yardi
+122,saurabh kabra
+123,mark waters
+124,partho mitra
+125,santram varma
+126,"anil v. kumar, anurag basu"
+127,sangeeth sivan
+128,umesh ghadge
+129,david dhawan
+130,dibakar banerjee
+131,apoorva lakhia
+132,milan luthria
+133,pawan kripalani
+134,bhushan patel
+135,magnus martens
+136,"raj nidimoru, krishna d.k."
+137,joshua rofé
+138,brad anderson
+139,"mauricio dias, tatiana villela"
+140,angel kristi williams
+141,roger donaldson
+142,christopher alender
+143,rush sturges
+144,david oyelowo
+145,mark lo
+146,crystal moselle
+147,rathindran r prasad
+148,han kwang il
+149,karim el shenawy
+150,yin chen-hao
+151,brian andrew mendoza
+152,dave needham
+153,veronica velasco
+154,drake doremus
+155,miguel alexandre
+156,mani ratnam
+157,michael harte
+158,tosin igho
+159,alice filippi
+160,paakhi tyrewala
+161,laura brownson
+162,steve brill
+163,moses inwang
+164,ferdinando cito filomarino
+165,juan carlos medina
+166,inma torrente
+167,julián gaviria
+168,steven yamamoto
+169,charles uwagbai
+170,julián hernández
+171,sam hobkinson
+172,vince marcello
+173,jonathan teplitzky
+174,sakon tiacharoen
+175,floyd russ
+176,dustin hoffman
+177,adze ugah
+178,hideaki takizawa
+179,quoc bao tran
+180,"bejoy nambiar, priyadarshan, karthik narain, vasanth sai, karthik subbaraj, arvind swamy, rathindran r prasad, sarjun, gautham vasudev menon"
+181,kayode kasum
+182,just philippot
+183,"kirk demicco, brandon jeffords"
+184,rohit shetty
+185,"cavi borges, luciano vidigal"
+186,alejandro doria
+187,laura fairrie
+188,marcelo piñeyro
+189,izu ojukwu
+190,peter winther
+191,susan lacy
+192,billy corben
+193,james mangold
+194,chineze anyaene
+195,hsu fu-chun
+196,kristine stolakis
+197,"eva müller, michael schmitt"
+198,brian levant
+199,rod daniel
+200,robert zemeckis
+201,todor chapkanov
+202,"phil lord, christopher miller"
+203,john hughes
+204,justin baldoni
+205,joe roth
+206,mark helfrich
+207,"mag hsu, hsu chih-yen"
+208,christopher nolan
+209,paul thomas anderson
+210,nick castle
+211,howard zieff
+212,david feiss
+213,david gordon green
+214,jorge blanco
+215,zara hayes
+216,gary ross
+217,clint eastwood
+218,trey parker
+219,kelly fremon craig
+220,tom elkins
+221,tony scott
+222,brad furman
+223,sylvain white
+224,irwin winkler
+225,garry marshall
+226,kenneth gyang
+227,jaume balagueró
+228,najwa najjar
+229,selçuk metin
+230,keishi otomo
+231,david charhon
+232,michelle bello
+233,steven tsuchida
+234,daniel markowicz
+235,louie schwartzberg
+236,glen winter
+237,ram gopal varma
+238,david benullo
+239,laxman utekar
+240,"royale watkins, rich schlansker"
+241,yuval adler
+242,quentin tarantino
+243,clay glen
+244,muzi mthembu
+245,marcos bucay
+246,peter thorwarth
+247,kim seong-hun
+248,augustine frizzell
+249,sidheswar shukla
+250,rajiv chilaka
+251,binayak das
+252,"arpan sarkar, shyamal chaulia"
+253,"rajiv chilaka, owll mina"
+254,"ainsley gardiner, briar grace-smith"
+255,mahmoud karim
+256,kyohei ishiguro
+257,seyi babatope
+258,"johane matte, andrew l. schmidt, francisco ruiz velasco"
+259,morgan ingari
+260,abdulaziz alshlahei
+261,edward drake
+262,kathryn fasegha
+263,"sita likitvanichkul, jetarin ratanaserikiat, apirak samudkitpaisan, thanabodee uawithya, adirek wattaleela"
+264,leigh janiak
+265,luis estrada
+266,garrett bradley
+267,sofia coppola
+268,colin trevorrow
+269,bill condon
+270,david slade
+271,chris weitz
+272,catherine hardwicke
+273,hadrah daeng ratu
+274,tommy chong
+275,fred ouro preto
+276,mayye zayed
+277,alessandra de rossi
+278,"ash brannon, chris buck"
+279,alaa eddine aljem
+280,tom donahue
+281,"roberto de feo, paolo strippoli"
+282,navot papushado
+283,manuel alcalá
+284,ricardo trogi
+285,semi chellas
+286,"akay mason, abosi ogba"
+287,viridiana lieberman
+288,nima nourizadeh
+289,daniel růžička
+290,juraj šajmovič
+291,femi d. ogunsanwo
+292,douglas attal
+293,kim joo-hyung
+294,avi federgreen
+295,"jericca cleland, kevin munroe"
+296,ahmed siddiqui
+297,hallie meyers-shyer
+298,scott speer
+299,barry levinson
+300,tolulope itegboje
+301,camille delamarre
+302,pascal atuma
+303,oleg trofim
+304,mahmood ali-balogun
+305,jan holoubek
+306,"anurin nwunembom, musing derrick"
+307,christine luby
+308,udoka oyeka
+309,yeo siew hua
+310,hardik mehta
+311,"rajveer singh maan, harpeet singh"
+312,youssef chahine
+313,"saw teong hin, nik amir mustapha, m.s. prem nath"
+314,rano karno
+315,pramod pawar
+316,naresh saigal
+317,vinil mathew
+318,neri parenti
+319,ramsey nouah
+320,bong joon ho
+321,kim tae-hyung
+322,"michael spierig, peter spierig"
+323,ernie barbarash
+324,matt ogens
+325,jay roach
+326,mcg
+327,frank marshall
+328,victor vu
+329,chow hin yeung roy
+330,joel hopkins
+331,"john stevenson, mark osborne"
+332,jennifer yuh nelson
+333,greg berlanti
+334,garth davis
+335,malik nejer
+336,rob marshall
+337,martin brest
+338,shuko murase
+339,paul w.s. anderson
+340,ivan reitman
+341,joel gallen
+342,claire mccarthy
+343,mary lambert
+344,"sidharta tata, aco tenriyagelli, dian sastrowardoyo, ifa isfansyah, jason iskandar"
+345,trevor nunn
+346,gabriele muccino
+347,jim field smith
+348,chris koch
+349,j.j. abrams
+350,rob minkoff
+351,lynn shelton
+352,adam mckay
+353,anton corbijn
+354,robin bissell
+355,david fincher
+356,john g. avildsen
+357,alan parker
+358,walter hill
+359,stephen frears
+360,bryan bertino
+361,phil alden robinson
+362,florian henckel von donnersmarck
+363,len wiseman
+364,"måns mårlind, björn stein"
+365,patrick tatopoulos
+366,robert o. peters
+367,vincent ward
+368,gregory nava
+369,mary harron
+370,matt thompson
+371,jameel buari
+372,shen leping
+373,matt aselton
+374,jose javier reyes
+375,jakub piątek
+376,john dower
+377,b. t thomas
+378,andrew dominik
+379,nibal arakji
+380,sofie šustková
+381,anissa bonnefont
+382,bahij hojeij
+383,jonathan hensleigh
+384,"srijit mukherji, vasan bala, abhishek chaubey"
+385,justin p. lange
+386,kimmy gatewood
+387,tània balló
+388,manolo caro
+389,anurin nwunembom
+390,jayme monjardim
+391,kingsley ogoro
+392,cristina jacob
+393,fernando moro
+394,ivan andrew payawal
+395,"yoshiyuki tomino, yoshikazu yasuhiko"
+396,yoshiyuki tomino
+397,rob seidenglanz
+398,simon frederick
+399,michihito fujii
+400,paul weitz
+401,karthik subbaraj
+402,lucky kuswandi
+403,soudade kaadan
+404,antoinette jadaone
+405,marie clements
+406,david o. russell
+407,achille brice
+408,max jabs
+409,sarawut wichiensarn
+410,ricardo de montreuil
+411,peter chelsom
+412,michael lockshin
+413,francine parker
+414,daniel schechter
+415,mike gunther
+416,david zeiger
+417,michael simon
+418,jerry rothwell
+419,"joe berlinger, bruce sinofsky"
+420,"ian cheney, sharon shattuck"
+421,bradley parker
+422,prabhakaran
+423,manjari makijany
+424,jay oliva
+425,chris appelhans
+426,michael tiddes
+427,lara saba
+428,"bao nhan, namcito"
+429,mark raso
+430,tariq alkazim
+431,yulene olaizola
+432,matthew heineman
+433,robert peters
+434,jonathan clay
+435,ally pankiw
+436,george ford
+437,lee kae-byeok
+438,jayan moodley
+439,daniel benmayor
+440,alex díaz
+441,helena bergström
+442,"alejandro de grazia, juan stadler"
+443,myriam fares
+444,chiaki kon
+445,rae red
+446,lance hool
+447,nicole conn
+448,les mayfield
+449,"ellen seidler, megan siler"
+450,roger christian
+451,peter galison
+452,lance young
+453,leandro neri
+454,thom fitzgerald
+455,don michael paul
+456,andrzej bartkowiak
+457,harold becker
+458,andrew jenks
+459,ric roman waugh
+460,rob reiner
+461,andy tennant
+462,tade ogidan
+463,scott spiegel
+464,jessie nelson
+465,theodore witcher
+466,aurora guerrero
+467,michael jai white
+468,james mcteigue
+469,takuya igarashi
+470,michelle maclaren
+471,hidenori inoue
+472,todd phillips
+473,steve ball
+474,dominic sena
+475,alan alda
+476,mika kaurismäki
+477,sydney pollack
+478,lorene scafaria
+479,barbra streisand
+480,michael winterbottom
+481,emma tammi
+482,peter hutchings
+483,george ratliff
+484,bo burnham
+485,ekene som mekwunye
+486,david frankel
+487,kevin johnson
+488,"josé larraza, marc pons"
+489,gary sing
+490,julio quintana
+491,paween purijitpanya
+492,pablo faro
+493,letizia lamartire
+494,ray jiang
+495,daniel vernon
+496,steve gukas
+497,tim johnson
+498,vishwesh krishnamoorthy
+499,zack snyder
+500,uduak-obong patrick
+501,mohamed diab
+502,amr salama
+503,christopher amos
+504,robert rodriguez
+505,david ayer
+506,"eshom nelms, ian nelms"
+507,james moll
+508,james redford
+509,kaashvie nair
+510,j.d. dillard
+511,nikhil pherwani
+512,mae czarina cruz
+513,praveen kandregula
+514,cecilia verheyden
+515,daniel minahan
+516,donovan marsh
+517,brent dawes
+518,leli maki
+519,uzodinma okpechi
+520,daniel prochaska
+521,joe wright
+522,matthew vaughn
+523,aditya kripalani
+524,adriano rudiman
+525,david pablos
+526,alexandre aja
+527,cai cong
+528,samuel olatunji
+529,ramon térmens
+530,svetlana cvetko
+531,martin prakkat
+532,baran bo odar
+533,zhang chong
+534,yılmaz erdoğan
+535,shantrelle p. lewis
+536,ivan ayr
+537,anthony mandler
+538,vijay roche
+539,stanley menino d'costa
+540,jennifer brea
+541,julia von heinz
+542,niels arden oplev
+543,"don argott, sheena m. joyce"
+544,joshua zeman
+545,duncan skiles
+546,sean mcnamara
+547,vondie curtis-hall
+548,robert radler
+549,roel reiné
+550,dean parisot
+551,paul greengrass
+552,justin kelly
+553,"eric darnell, tom mcgrath, conrad vernon"
+554,suhas kadav
+555,jeff wadlow
+556,charles martin
+557,stella corradi
+558,roland emmerich
+559,kevin macdonald
+560,ann deborah fishman
+561,chris gorak
+562,peter jackson
+563,roger kumble
+564,jonathan lynn
+565,courtney hunt
+566,"pierre greco, nancy florence savard"
+567,andrew davis
+568,kevin smith
+569,chaitanya tamhane
+570,oriol paulo
+571,"mike rianda, jeff rowe"
+572,johannes roberts
+573,"robert pulcini, shari springer berman"
+574,pedro antonio
+575,john wells
+576,jonathan liebesman
+577,maria pulera
+578,santhosh viswanath
+579,seema pahwa
+580,ozan açıktan
+581,meltem bozoflu
+582,hakan algül
+583,"selçuk aydemir, birkan pusa"
+584,selçuk aydemir
+585,ömer faruk sorak
+586,şenol sönmez
+587,alexis morante
+588,burak aksak
+589,kıvanç baruönü
+590,rindala kodeih
+591,kongkiat khomsiri
+592,bedran güzel
+593,marwan nabil
+594,"mikiko, daito manabe"
+595,"yılmaz erdoğan, ömer faruk sorak"
+596,takashi shimizu
+597,joe penna
+598,ahishor solomon
+599,curtis graham
+600,gerardo gatica
+601,"akshay sanjeev chavan, sumit das"
+602,john madden
+603,edward james olmos
+604,abhinay deo
+605,kiran rao
+606,abbas tyrewala
+607,ashutosh gowariker
+608,satyajit bhatkal
+609,"anusha rizvi, mahmood farooqui"
+610,aamir khan
+611,"shashank khaitan, raj mehta, neeraj ghaywan, kayoze irani"
+612,ryan crego
+613,cassi simonds
+614,guillermo del toro
+615,tony abulu
+616,stefan westerwelle
+617,ron howard
+618,"justin benson, aaron moorhead"
+619,niki caro
+620,"mark dennis, ben foster"
+621,taranveer singh
+622,tt the artist
+623,"keiichi sato, yasushi kawamura"
+624,glenn weiss
+625,michael civille
+626,ryuichi hiroki
+627,one9
+628,luis valdez
+629,cheng wei-hao
+630,pass patthanakumjon
+631,buchi babu sana
+632,fredrick munk
+633,"moyoung jin, caroline sá, deepti kakkar, fahad mustafa, hikaru toda, chico pereira, elaine mcmillion sheldon"
+634,zhao ji
+635,jamie babbit
+636,park hoon-jung
+637,dare olaitan
+638,ben falcone
+639,"travon free, martin desmond roe"
+640,angga dwimas sasongko
+641,steve rolston
+642,shalini kantayya
+643,madonne ashwin
+644,enah johnscott
+645,braden r. duemmler
+646,cal brunker
+647,steve pink
+648,xiao feng
+649,ricky staub
+650,"patrick durham, paul g. volk"
+651,bb sasore
+652,naseef yusuf izuddin
+653,"appie boudellah, aram van de rest"
+654,sylvie verheyde
+655,nick moore
+656,alex zamm
+657,rajkumar hirani
+658,rajesh mapuskar
+659,lina al abed
+660,james wan
+661,david hackl
+662,takeshi nozue
+663,subhash kapoor
+664,ringo lam
+665,george cukor
+666,tony giglio
+667,"shinji aramaki, masaru matsumoto"
+668,john luessenhop
+669,"hanung bramantyo, pandu adjisurya"
+670,bashir el deek
+671,roman polański
+672,nelson mccormick
+673,mic rodgers
+674,bejoy nambiar
+675,shawn rech
+676,peyton reed
+677,julian schnabel
+678,adrián garcía bogliano
+679,jose gomez
+680,jonathon link
+681,blair simmons
+682,justin chadwick
+683,john hillcoat
+684,nadine ibrahim
+685,roman white
+686,fermín muguruza
+687,mike hodges
+688,eylem kaftan
+689,fernando ayllón
+690,umesh bist
+691,massimiliano camaiti
+692,aleksey tsitsilin
+693,ali tabrizi
+694,kagiso lediga
+695,jung-ah im
+696,takuma sato
+697,brody chu
+698,dimitri logothetis
+699,taketoshi sado
+700,li weiran
+701,chinaza onuzo
+702,anna elizabeth james
+703,vitor brandt
+704,troy miller
+705,liam o'donnell
+706,"manny rodriguez, jay lavender"
+707,farah nabulsi
+708,walter taylaur
+709,chris smith
+710,alain brunard
+711,tate taylor
+712,ladislaus kiraly
+713,oliver stone
+714,hemambar jasti
+715,taylor morden
+716,helena coan
+717,muharrem gülmez
+718,dolapo adeleke
+719,mahsun kırmızıgül
+720,can ulkay
+721,luis alejandro pérez
+722,ketche
+723,erol özlevi
+724,miguel arteta
+725,tolga örnek
+726,pablo agüero
+727,mohammad irfan ramly
+728,"kevin mcmanus, matthew mcmanus"
+729,"ange basterga, nicolas lopez"
+730,gitanjali rao
+731,halitha shameem
+732,carlos moreno
+733,maribel sánchez-maroto
+734,fajar bustomi
+735,taylor hackford
+736,amy poehler
+737,"jared hess, tyler measom"
+738,mike binder
+739,abir sengupta
+740,sunny lau
+741,emmett malloy
+742,"xavier maingon, marc-antoine hélard"
+743,milton kremer
+744,kevin costner
+745,marco petry
+746,"andrew duncan, ken cunningham"
+747,liam lynch
+748,"jérémie degruson, ben stassen"
+749,matt ross
+750,dani de la orden
+751,pablo larraín
+752,john erick dowdle
+753,jesse peretz
+754,ribhu dasgupta
+755,rizki balki
+756,shunsuke kariyama
+757,jeferson de
+758,barry avrich
+759,"david tryhorn, ben nicholas"
+760,tirumala kishore
+761,huang hsin-yao
+762,saron sakina
+763,j blakeson
+764,khalid rahman
+765,luis ara
+766,"tharun bhascker dhaassyam, b. v. nandini reddy, nag ashwin, sankalp reddy"
+767,prateek vats
+768,alex merkin
+769,ian cheney
+770,vikram bhatt
+771,dallas jenkins
+772,damián romay
+773,hamisha daryani ahuja
+774,hong khaou
+775,mario briongos
+776,vinay bharadwaj
+777,michael fimognari
+778,eric d. cabello díaz
+779,clara martínez-lázaro
+780,monty tiwa
+781,ava duvernay
+782,alain darborg
+783,filip zylber
+784,joe berlinger
+785,julien royal
+786,brian baugh
+787,henri wong
+788,maïa sandoz
+789,mostofa sarwar farooki
+790,joseph hsu
+791,sam levinson
+792,jo sung-hee
+793,michèle ohayon
+794,rocco ricciardulli
+795,guo jingming
+796,jan belcl
+797,esteban crespo
+798,noé gonzález
+799,sarah gavron
+800,martin scorsese
+801,richard arellano
+802,jon favreau
+803,marco pontecorvo
+804,gregory plotkin
+805,lluís quílez
+806,jude weng
+807,simon stone
+808,noviandra santosa
+809,jeremy grant
+810,jeo baby
+811,glendyn ivin
+812,okey oku
+813,ifeanyi ikpoenyi
+814,chris eneng enaji
+815,ángeles reiné
+816,paul haggis
+817,ramin bahrani
+818,nicol paone
+819,nick rowland
+820,rza
+821,cooper karl
+822,gary fleder
+823,j.a. bayona
+824,darren lynn bousman
+825,"lydia dean pilcher, ginny mohler"
+826,cris d'amato
+827,mikael håfström
+828,"eric darnell, simon j. smith"
+829,byeon hee-sun
+830,peter facinelli
+831,renuka shahane
+832,ross kauffman
+833,sung do-jun
+834,hanung bramantyo
+835,"charles gozali, bagus bramanti"
+836,james toback
+837,tiller russell
+838,francisco d'eufemia
+839,chris rock
+840,juliet may
+841,stanley nelson
+842,"olivier nakache, éric toledano"
+843,prakash jha
+844,rohan sippy
+845,ross venokur
+846,rohena gera
+847,maite ruiz de austri
+848,jastis arimba
+849,"eric summer, éric warin"
+850,kornél mundruczó
+851,"alejandro ruax, ramiro martínez"
+852,florent bodin
+853,sohail khan
+854,hallvard bræin
+855,jeff tremaine
+856,christian alvart
+857,robert townsend
+858,jeff deverett
+859,ron krauss
+860,brian robbins
+861,jeff stilson
+862,sean penn
+863,mark mcqueen
+864,melanie mayron
+865,donald petrie
+866,tony collingwood
+867,"jennifer beamish, toby trackman"
+868,jaume collet-serra
+869,kim dong-kyu
+870,shaz bennett
+871,samar shaikh
+872,archie hekagery
+873,sabrina rochelle kalangie
+874,cosima spender
+875,liao shih-han
+876,"arnon manor, timothy ware-hill"
+877,gore verbinski
+878,"al campbell, alice mathias"
+879,maïwenn
+880,richard weston
+881,vikramaditya motwane
+882,prime cruz
+883,andibachtiar yusuf
+884,yandy laurens
+885,cathy garcia-molina
+886,"john mitchell, jeremy kipp walker"
+887,george clooney
+888,liu kuang-hui
+889,kristian mercado
+890,"daan jansen, stijn verlinde"
+891,jay grace
+892,paul dugdale
+893,james haslam
+894,muhammad ali
+895,thomas toby parkinson
+896,john putch
+897,sam macaroni
+898,george c. wolfe
+899,yasmin ahmad
+900,"sudha kongara, vignesh shivan, gautham vasudev menon, vetri maaran"
+901,juan camilo pinzon
+902,lin oeding
+903,naya anindita
+904,alexx media
+905,farishad i. latjuba
+906,"andrucha waddington, pedro waddington"
+907,picky talarico
+908,jun lana
+909,brad peyton
+910,lee daniels
+911,tom ford
+912,"ellena wood, jesse vile"
+913,vir das
+914,miranda de pencier
+915,farhad safinia
+916,shaun paul piccinino
+917,eddie rosas
+918,frank e. abney iii
+919,"james d. stern, fernando villena"
+920,ryan murphy
+921,girish malik
+922,deepa mehta
+923,lai chun-yu
+924,theodore boborol
+925,sydney sibilia
+926,josiah ng
+927,kirk wise
+928,"beth sleven, allan jacobsen, kevin wotton"
+929,jalil lespert
+930,"su i-hsuan, chuang shiang-an, liu yi"
+931,clint butler
+932,"erik kling, kevin peaty"
+933,detlev buck
+934,amanda raymond
+935,jason paul laxamana
+936,marc fouchard
+937,darragh o'connell
+938,roberto santucci
+939,dado c. lumibao
+940,august jakobsson
+941,anna wieczur-bluszcz
+942,damien o’connor
+943,richard laxton
+944,gil kenan
+945,phil burgers
+946,pierre morel
+947,brian henson
+948,derick cabrido
+949,marla m. ancheta
+950,jen mcgowan
+951,bernie denk
+952,brian skiba
+953,"stanley moore, alex woo"
+954,oliver bokelberg
+955,ángel gómez hernández
+956,ludovico di martino
+957,lee chung-hyun
+958,barry gonzalez
+959,brian volk-weiss
+960,matthew michael carnahan
+961,eric bress
+962,chris columbus
+963,v vignarajan
+964,"greg rankin, tj sullivan"
+965,carlos sorín
+966,matt eskandari
+967,grant singer
+968,mohammad adel
+969,debbie allen
+970,victor gatonye
+971,stephen chiodo
+972,"will mccormack, michael govier"
+973,monica floyd
+974,anurag kashyap
+975,siddique
+976,danish aslam
+977,vibhu virender puri
+978,mike rohl
+979,shyam benegal
+980,takeshi fukunaga
+981,leslie small
+982,jeff nichols
+983,"sabaah folayan, damon davis"
+984,justin g. dyck
+985,"cody cameron, kris pearn"
+986,michael curtiz
+987,avinash walzade
+988,david e. talbert
+989,renata terra
+990,edoardo ponti
+991,mateo gil
+992,paul soriano
+993,ryan coogler
+994,anurag basu
+995,lucas santa ana
+996,carla barros
+997,ulrike kofler
+998,"steven bognar, julia reichert"
+999,kunle afolayan
+1000,weica wang
+1001,"aitor arregi, jon garaño, jose mari goenaga"
+1002,kevin pollak
+1003,otoja abit
+1004,alejandro hartmann
+1005,maxwell mcguire
+1006,ruel s. bayani
+1007,martin wood
+1008,narendra nath
+1009,jan-peter horns
+1010,tatsushi omori
+1011,estela renner
+1012,"zeek earl, christopher caldwell"
+1013,michael kampa
+1014,chanda bell
+1015,jennifer westcott
+1016,richard greenberg
+1017,peter berg
+1018,nicolas pesce
+1019,christopher cain
+1020,juliana vicente
+1021,harald zwart
+1022,stacia crawford
+1023,remi weekes
+1024,tope oshin
+1025,terrie samundra
+1026,olivier marchal
+1027,santiago alvarado ilarri
+1028,frasco mortiz
+1029,john whitesell
+1030,antonio díaz
+1031,nimród antal
+1032,bartosz m. kowalski
+1033,james tovell
+1034,matías gueilburt
+1035,natasha lyonne
+1036,"chang chin-jung, chen rong-hui"
+1037,rajkumar santoshi
+1038,lance daly
+1039,unjoo moon
+1040,gil baroni
+1041,"thierry demaizière, alban teurlai"
+1042,glen keane
+1043,chris sivertson
+1044,"kief davidson, pedro kos"
+1045,jarand herdal
+1046,dan villegas
+1047,chris foggin
+1048,kim nguyen
+1049,karen maine
+1050,tim neeves
+1051,ben wheatley
+1052,maroun baghdadi
+1053,philippe aractingi
+1054,amin dora
+1055,rana eid
+1056,daniel joseph
+1057,randa chahal sabbag
+1058,ziad doueiri
+1059,shady hanna
+1060,josef fares
+1061,"sam fell, chris butler"
+1062,ross boyask
+1063,"david 'tosh' gitonga, michael jones"
+1064,ti west
+1065,aaron sorkin
+1066,levan gabriadze
+1067,rachel talalay
+1068,sam liu
+1069,peter mimi
+1070,lasja fauzia susatyo
+1071,"pavitra chalam, akshay shankar"
+1072,"kevin ko, peter tsi"
+1073,caroline suh
+1074,carlos pérez osorio
+1075,ken ghosh
+1076,indra kumar
+1077,b. subhash
+1078,harshavardhan kulkarni
+1079,neeraj vora
+1080,puneet khanna
+1081,radha blank
+1082,"bigflo & oli, jérémie levypon"
+1083,eduardo pinto
+1084,pavel kostomarov
+1085,mike elliott
+1086,francis whately
+1087,jon izen
+1088,christopher nolen
+1089,"alastair fothergill, jonnie hughes, keith scholey"
+1090,amy segal
+1091,umut aral
+1092,umut kirca
+1093,sudhir mishra
+1094,domenico de feudis
+1095,oz rodriguez
+1096,salvador espinosa
+1097,adrian teh
+1098,brad silberling
+1099,"elsa flores almaraz, richard j montoya"
+1100,carey mckenzie
+1101,adam bolt
+1102,taika waititi
+1103,"lindsey cordero, armando croda"
+1104,david lachapelle
+1105,mostafa abu seif
+1106,faris godus
+1107,rod lurie
+1108,stacie passon
+1109,jenny popplewell
+1110,florian schott
+1111,tom whitworth
+1112,joe mantello
+1113,lee hirsch
+1114,page hurwitz
+1115,dallas jackson
+1116,rajat kapoor
+1117,abhishek chaubey
+1118,imtiaz ali
+1119,navdeep singh
+1120,anees bazmee
+1121,rikhil bahadur
+1122,shawn levy
+1123,harry bradbeer
+1124,"joshua tickell, rebecca harrell tickell"
+1125,sophia nahli allison
+1126,norihisa hiranuma
+1127,shigeaki kubo
+1128,"shigeaki kubo, tsuyoshi nakakuki"
+1129,yudai yamaguchi
+1130,marwan hamed
+1131,smeep kang
+1132,raja chanda
+1133,tigmanshu dhulia
+1134,akashdeep
+1135,rajesh ganguly
+1136,alankrita shrivastava
+1137,chandra liow
+1138,sekhar kammula
+1139,gary andrews
+1140,merawi gerima
+1141,kubhaer t. jethwani
+1142,antonio campos
+1143,carles torras
+1144,james watkins
+1145,philippa lowthorpe
+1146,pailin wedel
+1147,chris howe
+1148,peter sollett
+1149,steve bencich
+1150,tosin coker
+1151,javier colinas
+1152,dean deblois
+1153,reinhard klooss
+1154,shaun mir
+1155,satish rajwade
+1156,abhijeet deshpande
+1157,mahesh manjrekar
+1158,prakash kunte
+1159,manish saini
+1160,kenny ortega
+1161,makarand mane
+1162,vijay maurya
+1163,sameer patil
+1164,"kenzo maihara, amandha wyanto"
+1165,ahmed nader galal
+1166,arati kadav
+1167,maïmouna doucouré
+1168,pepe mora
+1169,marcos carnevale
+1170,jeff orlowski
+1171,cho il
+1172,"pippa ehrlich, james reed"
+1173,tolga karaçelik
+1174,davis guggenheim
+1175,philip barantini
+1176,charlie kaufman
+1177,abba t. makama
+1178,"junior carelli, rudge campos"
+1179,ertanto robby soediskam
+1180,mark steven johnson
+1181,felix binder
+1182,thor freudenthal
+1183,nguyen thanh tung
+1184,baltasar kormákur
+1185,conrad helten
+1186,ayumu watanabe
+1187,hitoshi namba
+1188,chris miller
+1189,sean anders
+1190,abbas mustan
+1191,duncan mcmath
+1192,"dan forgione, pete jacobs, matt whitlock"
+1193,francesco carnesecchi
+1194,greg tiernan
+1195,"mark thornton, todd kauffman"
+1196,shamzu zayba
+1197,jesse v. johnson
+1198,brett haley
+1199,"chris roland, maradona dias dos santos"
+1200,david galán galindo
+1201,david moreton
+1202,lester hsi
+1203,cyrus nowrasteh
+1204,isabel sandoval
+1205,nathan wiley
+1206,wayne blair
+1207,atul sabharwal
+1208,bernardo arellano
+1209,trish sie
+1210,hong won-ki
+1211,khaled marei
+1212,fred wolf
+1213,niyi akinmolayan
+1214,sammaria sari simanjuntak
+1215,chairun nissa
+1216,tom hooper
+1217,sergei bodrov
+1218,anna stone
+1219,cory edwards
+1220,faraday okoro
+1221,"henry joost, ariel schulman"
+1222,rebecca zlotowski
+1223,sharan sharma
+1224,tyler spindel
+1225,vicky wight
+1226,marc meyers
+1227,franziska meyer price
+1228,steven rinella
+1229,laura terruso
+1230,martín sastre
+1231,franck nataf
+1232,pascal amanfo
+1233,savage steve holland
+1234,mike doyle
+1235,darren grant
+1236,joseph ruben
+1237,mfanelo ngoma
+1238,colin minihan
+1239,"regina welker, nina wels"
+1240,honey trehan
+1241,"katleho ramaphakela, rethabile ramaphakela"
+1242,ariel boles
+1243,álvaro delgado-aparicio l.
+1244,venkatesh maha
+1245,nopparoj chotmunkongsit
+1246,aniedi anwah
+1247,mickey fonseca
+1248,matias mariani
+1249,jan komasa
+1250,sue kim
+1251,paul solet
+1252,ben kasulke
+1253,gagan puri
+1254,teddy chan
+1255,bhavin wadia
+1256,"tony bancroft, scott christian sava"
+1257,tope alake
+1258,fernando gonzález molina
+1259,yuki tanada
+1260,alex gibney
+1261,ahn byoung-wook
+1262,sibusiso khuzwayo
+1263,"lisa cortés, farah x"
+1264,wilson yip
+1265,"dave skinner, freddie waters"
+1266,denis do
+1267,"leslye davis, catrin einhorn"
+1268,"toka mcbaror, tunde apalowo"
+1269,peter sullivan
+1270,axelle laffont
+1271,daniel oriahi
+1272,stefano mordini
+1273,hayden guppy
+1274,stéphane de freitas
+1275,"andré odendaal, johan vorster"
+1276,cassia dian
+1277,amro salah
+1278,sue ding
+1279,gina prince-bythewood
+1280,wouter bouvijn
+1281,funke akindele
+1282,bryn evans
+1283,"cristina costantini, kareem tabsch"
+1284,hannah fidell
+1285,"chris renaud, kyle balda"
+1286,scott zabielski
+1287,"coodie, chike"
+1288,qlf
+1289,sachin kundalkar
+1290,puri jagannadh
+1291,vishal mahadkar
+1292,"anurag kashyap, dibakar banerjee, karan johar, zoya akhtar"
+1293,anthony d'souza
+1294,soumendra padhi
+1295,fuwad khan
+1296,nishikant kamat
+1297,krish
+1298,kabir sadanand
+1299,rachit kusonkoonsiri
+1300,shoojit sircar
+1301,omung kumar
+1302,umesh shukla
+1303,devika bhagat
+1304,takashi doscher
+1305,shubham singh
+1306,"abbas alibhai burmawalla, mastan alibhai burmawalla"
+1307,luv ranjan
+1308,vikas bahl
+1309,neeraj pandey
+1310,aanand rai
+1311,gurmmeet singh
+1312,lp
+1313,rako prijanto
+1314,raoul peck
+1315,shirley frimpong-manso
+1316,"fabio ock, joana mazzucchelli"
+1317,"sabina fedeli, anna migotto"
+1318,kyran kelly
+1319,salvador calvo
+1320,cem yılmaz
+1321,bruce beresford
+1322,michael duggan
+1323,"almudena carracedo, robert bahar"
+1324,paul verhoeven
+1325,younuts!
+1326,obi emelonye
+1327,daniel effiong
+1328,abhijit panse
+1329,rachel griffiths
+1330,david dobkin
+1331,oluseyi asurf
+1332,eduardo roy jr.
+1333,ravikanth perepu
+1334,sooraj r. barjatya
+1335,"bonni cohen, jon shenk"
+1336,anvita dutt
+1337,gaspar antillo
+1338,eric notarnicola
+1339,musthafa
+1340,ishaya bako
+1341,"kate mulleavy, laura mulleavy"
+1342,akhigbe ilozobhie
+1343,apurva dhar badgaiyann
+1344,elissa down
+1345,guillaume pierret
+1346,olivier assayas
+1347,"junichi sato, tomotaka shibayama"
+1348,pablo aulita
+1349,manatsanun phanlerdwongsakul
+1350,georges hachem
+1351,peter lepeniotis
+1352,jim hosking
+1353,paco aguilar
+1354,greg mclean
+1355,juan josé campanella
+1356,a. raajdheep
+1357,"fajar bustomi, pidi baiq"
+1358,nicholas kharkongor
+1359,michael mckay
+1360,kitaro kosaka
+1361,ali f. mostafa
+1362,ayman makram
+1363,george gallo
+1364,ry russo-young
+1365,"barbara białowąs, tomasz mandes"
+1366,"akhil paul, anas khan"
+1367,kanika batra
+1368,michael cristofer
+1369,mohamed khan
+1370,adriana trigiani
+1371,phil sgriccia
+1372,andaç haznedaroğlu
+1373,murat kepez
+1374,greta gerwig
+1375,sam rega
+1376,wael ehsan
+1377,inas el-degheidy
+1378,ahmed al-badry
+1379,sameh abdulaziz
+1380,wael ihsan
+1381,izidore k. musallam
+1382,sherif arafa
+1383,yasir al yasiri
+1384,safdar rahman
+1385,tomas brickhill
+1386,hani al-shaibani
+1387,mamoru hosoda
+1388,james franco
+1389,niall johnson
+1390,michael damian
+1391,ahmed zain
+1392,angshuman ghosh
+1393,ahmed zein
+1394,alejandro montiel
+1395,fernando frías de la parra
+1396,madeleine parry
+1397,yu yang
+1398,jesse warn
+1399,"josh safdie, benny safdie"
+1400,"hiromasa yonebayashi, yoshiyuki momose, akihiko yamashita"
+1401,michael showalter
+1402,"norm hiscock, gary howsam, mike smith, john paul tremblay, robb wells"
+1403,almunsif alsuwaisi
+1404,fouad al shatti
+1405,fouad el-mohandes
+1406,andrés feddersen
+1407,samir al asfory
+1408,hussein kamal
+1409,hassan abdulsalam
+1410,houssam el-din mustafa
+1411,"muhammad fadl, hany motawie"
+1412,lonzo nzekwe
+1413,"alex timbers, sam wrench"
+1414,rebecca johnson
+1415,carlos morett
+1416,megha ramaswamy
+1417,saeed hamed
+1418,ali ragab
+1419,ahmad el-badri
+1420,marcus raboy
+1421,haifaa al-mansour
+1422,mohammed alhmly
+1423,lucien bourjeily
+1424,laura mañá
+1425,sivaroj kongsakul
+1426,salmeen almurry amer
+1427,mohit suri
+1428,obaid alhmoudi
+1429,adekunle nodash adejuyigbe
+1430,sadeq behbehani
+1431,dylan mohan gray
+1432,hussein el ansary
+1433,claire scanlon
+1434,vipul amrutlal shah
+1435,donick cary
+1436,will forbes
+1437,francesco amato
+1438,"damien chazelle, houda benyamina, laïla marrakchi, alan poul"
+1439,s.a. zaidi
+1440,hamad alsarraf
+1441,he xiaofeng
+1442,nadia hallgren
+1443,pedro flores maldonado
+1444,joe demaio
+1445,aaron woodley
+1446,lucas margutti
+1447,ashok nanda
+1448,hernán guerschuny
+1449,alex ranarivelo
+1450,seth barrish
+1451,brett hedlund
+1452,joe robert cole
+1453,michelle esrick
+1454,olivier abbou
+1455,jeffrey schwarz
+1456,"eric darnell, tom mcgrath"
+1457,craig freimond
+1458,shirish kunder
+1459,mysskin
+1460,alice wu
+1461,joey so
+1462,dennie gordon
+1463,michael m. scott
+1464,sion sono
+1465,"david chuang, chen kuan-chung"
+1466,chris bolan
+1467,omoni oboli
+1468,saravana rajan
+1469,"muharrem gülmez, sırrı süreyya önder"
+1470,sermiyan midyat
+1471,"ahmed yousry, hazem fouda"
+1472,handan i̇pekçi
+1473,ferzan özpetek
+1474,ashraf fayeq
+1475,paul munger
+1476,matei dima
+1477,jonathan augustin
+1478,venky kudumula
+1479,amr arafa
+1480,michel hazanavicius
+1481,ahmed saleh
+1482,ahmed medhat
+1483,mohamed yassin
+1484,chakri toleti
+1485,neville shah
+1486,upi avianto
+1487,yoon sung-hyun
+1488,rachel mason
+1489,patryk vega
+1490,marc vigil
+1491,kris pearn
+1492,ryan polito
+1493,anoop sathyan
+1494,müfit can saçıntı
+1495,cüneyt kaya
+1496,greg barker
+1497,leticia jorge romero
+1498,"adrien lagier, ousmane ly"
+1499,"ethan coen, joel coen"
+1500,jon m. chu
+1501,diego pignataro
+1502,ian edelman
+1503,ali yorgancıoğlu
+1504,digo ricio
+1505,emcy joseph
+1506,kranthi madhav
+1507,matt d'elia
+1508,jeff chan
+1509,dean craig
+1510,"grand corps malade, mehdi idir"
+1511,jay karas
+1512,stefano lodovichi
+1513,alan yang
+1514,perci intalan
+1515,m. night shyamalan
+1516,chris robinson
+1517,eddie mensore
+1518,sean baker
+1519,padraig reynolds
+1520,yorgos lanthimos
+1521,michael dowse
+1522,"pablo lejarreta, luis alfaro"
+1523,armando iannucci
+1524,akira saitoh
+1525,haruka fujita
+1526,mukul anand
+1527,karan malhotra
+1528,"david batra, jon rudberg"
+1529,tarun mansukhani
+1530,ramesh talwar
+1531,mahesh bhatt
+1532,raj khosla
+1533,punit malhotra
+1534,shashank khaitan
+1535,soham shah
+1536,karan johar
+1537,nikkhil advani
+1538,shakun batra
+1539,"rajiv chilaka, anirban majumder, alka amarkant dubey"
+1540,prakash mehra
+1541,anand ravichandran
+1542,"richard claus, karsten kiilerich"
+1543,floria sigismondi
+1544,renzil d'silva
+1545,fritz böhm
+1546,ravishankar venkateswaran
+1547,vijay s. bhanushali
+1548,david hunt
+1549,stephen s. campanelli
+1550,rakesh ranjan kumar
+1551,sam irvin
+1552,gary stretch
+1553,desingh periyasamy
+1554,"tj sullivan, greg rankin"
+1555,neeraj udhwani
+1556,patrice laliberté
+1557,"ellen page, ian daniel"
+1558,"todd kauffman, mark thornton"
+1559,prentice penny
+1560,zsolt pálfi
+1561,nawapol thamrongrattanarit
+1562,marlene melchior
+1563,aaron lieber
+1564,tamas yvan topolanszky
+1565,"àlex pastor, david pastor"
+1566,rami hachache
+1567,francisco macri
+1568,gabriela garcía rivas
+1569,"eric goode, rebecca chaiklin"
+1570,francesco lettieri
+1571,john suits
+1572,"takeru nakajima, yoshiyuki okada"
+1573,susan walter
+1574,masaaki yuasa
+1575,pierre deschamps
+1576,jeff tomsic
+1577,scot armstrong
+1578,naman nitin mukesh
+1579,lynn novick
+1580,navjot gulati
+1581,stephanie zwane
+1582,owen trevor
+1583,stephanie turner
+1584,liz garbus
+1585,mehmet ada öztekin
+1586,jos humphrey
+1587,sharmeen obaid-chinoy
+1588,toyin abraham
+1589,ruchi narain
+1590,christophe charrier
+1591,daniel calparsoro
+1592,trivikram srinivas
+1593,kittiphak thonguam
+1594,cristi puiu
+1595,"sebastian jones, ramez silyan"
+1596,carlos sedes
+1597,"adam b. stein, zach lipovsky"
+1598,athiyan athirai
+1599,zuko nodada
+1600,madonna
+1601,milton horowitz
+1602,sneha taurani
+1603,momoko kamiya
+1604,matthew ross
+1605,lee kirk
+1606,ziggy hofmeyr
+1607,gustavo ron
+1608,yacine belhousse
+1609,sam dunn
+1610,"kunihiko yuyama, motonori sakakibara"
+1611,"ali kalthami, meshal aljaser, faris godus, mohamed al salman, faisal al amer"
+1612,tolu awobiyi
+1613,oyefunke fayoyin
+1614,jason orley
+1615,robert eagar
+1616,travis stevens
+1617,mick grogan
+1618,nora fingscheidt
+1619,jeethu joseph
+1620,dee rees
+1621,sooni taraporevala
+1622,linda korsten
+1623,tom barton-humphreys
+1624,angelina jolie
+1625,r.j. daniel hanna
+1626,paco cabezas
+1627,peter billingsley
+1628,jason zada
+1629,avgousta zourelidi
+1630,"richard phelan, will becher"
+1631,rod cabatana marmol
+1632,michał tylka
+1633,oliver kienle
+1634,brian webber
+1635,"takashi yamazaki, ryuichi yagi, makoto hanafusa"
+1636,"pantham thongsang, cheewatan pusitsuksa"
+1637,"paul krüger, anél stolp"
+1638,"benny safdie, josh safdie"
+1639,andres clariond
+1640,andrew dean
+1641,lars klevberg
+1642,lukasz kosmicki
+1643,shanavas k. bavakutty
+1644,kwabena gyansah
+1645,jeff baena
+1646,kumaran
+1647,jared moshé
+1648,"austin peck, anneliese vandenberg"
+1649,james bamford
+1650,"julia willoughby nason, jenner furst"
+1651,"nate adams, adam carolla"
+1652,ivan silvestrini
+1653,robert krantz
+1654,gregory jacobs
+1655,alfonso cortés-cavanillas
+1656,xavier manrique
+1657,richard gabai
+1658,alfons adetuyi
+1659,thomas astruc
+1660,erwin van den eshof
+1661,g.j. echternkamp
+1662,hikari
+1663,jean-claude flamand-barny
+1664,lana wilson
+1665,shannon hartman
+1666,david oelhoffen
+1667,ramesh sippy
+1668,"vir das, ajay bhuyan"
+1669,"josh z. weinstein, joshua z. weinstein"
+1670,chung mong-hong
+1671,johnny breedt
+1672,césar rodrigues
+1673,quek shio-chuan
+1674,"pablo stoll, juan pablo rebella"
+1675,krysia plonka
+1676,madhumita
+1677,debamitra biswal
+1678,david lynch
+1679,tyler perry
+1680,caryn waechter
+1681,tim hill
+1682,numa perrier
+1683,brian helgeland
+1684,yoshiyuki momose
+1685,danny boyle
+1686,rima das
+1687,paco plaza
+1688,andrew goth
+1689,william kaufman
+1690,"david benioff, d.b. weiss"
+1691,steve boettcher
+1692,mikhil musale
+1693,tom green
+1694,david lowery
+1695,maria ripoll
+1696,yibrán asuad
+1697,edwin
+1698,vadim jean
+1699,"mark a.z. dippé, kyung ho lee"
+1700,"mark a.z. dippé, eondeok han"
+1701,mark a.z. dippé
+1702,john a. davis
+1703,justin webster
+1704,tetsuo yajima
+1705,john lyde
+1706,steve rash
+1707,ravi babu
+1708,soumitra ranade
+1709,jon rosenbaum
+1710,bruce leddy
+1711,yuki yamato
+1712,andrew wessels
+1713,emir kusturica
+1714,odunlade adekola
+1715,elisa fuksas
+1716,lee toland krieger
+1717,"akiyuki shinbo, nobuyuki takeuchi"
+1718,ron oliver
+1719,"shojiro nishimi, guillaume renard"
+1720,pepe bojórquez
+1721,rhys thomas
+1722,david m. rosenthal
+1723,louise alston
+1724,sunkanmi adebayo
+1725,falz
+1726,frank rajah arase
+1727,fernando meirelles
+1728,rodrigo reyes
+1729,mark lewis
+1730,sebastian dinatale
+1731,"nuhash humayun, syed ahmed shawki, rahat rahman, robiul alam robi, golam kibria farooki, mir mukarram hossain, tanvir ahsan, mahmudul islam, abdullah al noor, krishnendu chattopadhyay, syed saleh ahmed sobhan"
+1732,karan anshuman
+1733,farhan akhtar
+1734,zoya akhtar
+1735,mrighdeep singh lamba
+1736,tsutomu mizushima
+1737,reema kagti
+1738,jadesola osiberu
+1739,vijay lalwani
+1740,abhishek kapoor
+1741,michael bay
+1742,biodun stephen
+1743,ding-lin wang
+1744,richard van't riet
+1745,shonali bose
+1746,lance bangs
+1747,robbie countryman
+1748,trey edward shults
+1749,sujeeth
+1750,alexandre avancini
+1751,noah baumbach
+1752,atsuko ishizuka
+1753,eric aghimien
+1754,michel tikhomiroff
+1755,"robert kenner, taki oldham"
+1756,john schultz
+1757,linda mendoza
+1758,michelle johnston
+1759,vijay kumar arora
+1760,matt shakman
+1761,mikhail red
+1762,pankaj batra
+1763,serge ou
+1764,navaniat singh
+1765,gaurav bavdankar
+1766,jagdeep sidhu
+1767,tanawat aiemjinda
+1768,mukesh vohra
+1769,"syrine boulanouar, nekfeu"
+1770,tudor giurgiu
+1771,"luis ara, ignacio jaunsolo"
+1772,abhishek sharma
+1773,mati diop
+1774,jérémy clapin
+1775,mandla dube
+1776,mike ezuruonye
+1777,cheta chukwu
+1778,roger russell
+1779,toka mcbaror
+1780,edward zwick
+1781,basava shankar eeday
+1782,"elle-máijá tailfeathers, kathleen hepburn"
+1783,sanjiv jaiswal
+1784,"marta jaenes, rosa márquez"
+1785,julien abraham
+1786,monika mitchell
+1787,eva orner
+1788,kvr mahendra
+1789,juan carlos rulfo
+1790,raj r
+1791,steve paley
+1792,timo vuorensola
+1793,robb dipple
+1794,eli roth
+1795,wash westmoreland
+1796,alessandro angulo
+1797,mauro scandolari
+1798,arjun jandyala
+1799,"shashanka ghosh, samit basu"
+1800,naoko yamada
+1801,sergio pablos
+1802,valli bindana
+1803,makoto shinkai
+1804,gautier & leduc
+1805,christopher storer
+1806,josh aronson
+1807,luke snellin
+1808,xavier durringer
+1809,pawan kumar
+1810,phillip youmans
+1811,zhang yimou
+1812,neal brennan
+1813,azazel jacobs
+1814,jung ji-woo
+1815,matt d'avella
+1816,parthiban
+1817,scott mcaboy
+1818,"raymie muzquiz, stu livingston"
+1819,joe menendez
+1820,eric bross
+1821,will eisenberg
+1822,marina seresesky
+1823,kenny leon
+1824,harvey lowry
+1825,james dearden
+1826,"drea cooper, zackary canepari"
+1827,michael a. nickles
+1828,blayne weaver
+1829,david michôd
+1830,marco bonfanti
+1831,everardo gonzález
+1832,"rodrigo guardiola, gabriel cruz rivas"
+1833,juani libonatti
+1834,dj chen
+1835,park joon-hwa
+1836,saravana rajendran
+1837,matt kay
+1838,craig brewer
+1839,billy lyons
+1840,michael steed
+1841,zak hilditch
+1842,michael steiner
+1843,andrew slater
+1844,"glen goei, gavin yap"
+1845,huw cordey
+1846,yuen woo-ping
+1847,gillian robespierre
+1848,thomas vinterberg
+1849,ciarán foy
+1850,daniel sánchez arévalo
+1851,don omope
+1852,ed perkins
+1853,steven soderbergh
+1854,udai singh pawar
+1855,guntur soeharjanto
+1856,bassam tariq
+1857,leslie iwerks
+1858,louie psihoyos
+1859,ahmet katıksız
+1860,jean-françois blais
+1861,"leïla sy, kery james"
+1862,vince gilligan
+1863,bolanle austen-peters
+1864,dennis rovira van boekholt
+1865,naoto amazutsumi
+1866,jenny gage
+1867,kaila york
+1868,vandana kataria
+1869,onur bilgetay
+1870,vincenzo natali
+1871,tugçe soysop
+1872,"jacob joice, steve ball"
+1873,luis javier henaine
+1874,anand kamalakar
+1875,lee yoon-jung
+1876,roy poortmans
+1877,vrinda samartha
+1878,nicholaus goossen
+1879,"stig bergqvist, paul demeyer"
+1880,"igor kovalyov, norton virgien"
+1881,danny cannon
+1882,mana yasuda
+1883,gupse özay
+1884,jim mickle
+1885,"jumpei mizusaki, koji morimoto, michael arias, masaru matsumoto, arthell isom, henry thurlow, takanobu mizuno, elsa nakamichi, hajime sasaki, shinji takagi"
+1886,mangesh hadawale
+1887,wong kar wai
+1888,otilia portillo padua
+1889,b. v. nandini reddy
+1890,michael j. bassett
+1891,rahul ravindran
+1892,archie borders
+1893,deepti naval
+1894,scott aukerman
+1895,mariano barroso
+1896,"kiko cruz claverol, patricia font"
+1897,sandeep reddy vanga
+1898,manny rodriguez
+1899,randall lobb
+1900,alex stapleton
+1901,teng huatao
+1902,nzingha stewart
+1903,orlando von einsiedel
+1904,anubhav sinha
+1905,maha venkatesh
+1906,tharun bhascker
+1907,farhan alam
+1908,a. l. vijay
+1909,petra costa
+1910,hayato date
+1911,"petra costa, lea glob"
+1912,"rémy four, julien war"
+1913,alejandro fernández almendras
+1914,jota linares
+1915,wagner de assis
+1916,white trash tyler
+1917,stan lathan
+1918,yeung yat-tak
+1919,rai yuvraj bains
+1920,sunil thakur
+1921,muh chen
+1922,saurabh sinha
+1923,ashwin saravanan
+1924,julia knowles
+1925,tarsem singh
+1926,kepa sojo
+1927,"vikramaditya motwane, anurag kashyap"
+1928,"cho li, chen hung-yi, weica wang, liu bang-yao, lin guan-fu, shen chi, yc tom lee"
+1929,manu ashokan
+1930,anita udeep
+1931,vlad yudin
+1932,alberto arnaut estrada
+1933,robert moresco
+1934,aadish keluskar
+1935,"joe murray, cosmo segurson"
+1936,jesse moss
+1937,shin won-ho
+1938,sujoy ghosh
+1939,john asher
+1940,alex burunova
+1941,jesús torres torres
+1942,camille shooshani
+1943,vijay kumar
+1944,phanindra narsetti
+1945,gideon raff
+1946,jorge m. fontana
+1947,olivier afonso
+1948,"karim amer, jehane noujaim"
+1949,jay chapman
+1950,"jay karas, demetri martin"
+1951,dante lam
+1952,chi keung fung
+1953,"corey yuen, patrick leung"
+1954,to-hoi kong
+1955,frank ariza
+1956,jerry seinfeld
+1957,aditya sarpotdar
+1958,nisheeta keni
+1959,daniel gray longino
+1960,gerardo olivares
+1961,wi ding ho
+1962,joe lynch
+1963,andreas pichler
+1964,daniel arasanz
+1965,spike jonze
+1966,"marcelo altmark, mariano mucci, luis a. scalella"
+1967,hernán zin
+1968,sittisiri mongkolsiri
+1969,robbie grewal
+1970,thiagarajan kumararaja
+1971,kate horne
+1972,roberto girault facha
+1973,"alex díaz, marcos bucay"
+1974,svati chakravarty bhatkal
+1975,kevin bray
+1976,"jesse v. johnson, jesse johnson"
+1977,"miguel cohan, miguel cohan"
+1978,"luis alberto restrepo, andrés beltrán, jaime rayo"
+1979,hideaki anno
+1980,"hideaki anno, kazuya tsurumaki"
+1981,"abhijit kokate, srivinay salian"
+1982,antonin baudry
+1983,jon watts
+1984,jakob lass
+1985,"john haptas, kristine samuelson"
+1986,sanjay jadhav
+1987,vinod kapri
+1988,elías león
+1989,kyle newacheck
+1990,mark ritchie
+1991,rocky soraya
+1992,federico veiroj
+1993,isabel coixet
+1994,grant sputore
+1995,juan antin
+1996,hanno olderdissen
+1997,amar kaushik
+1998,eva trobisch
+1999,mathieu auvray
+2000,"limbert fabian, brandon oldenburg"
+2001,datta mohan bhandare
+2002,sanjib dey
+2003,daniel yee heng chan
+2004,rakeysh omprakash mehra
+2005,han han
+2006,jang jae-hyun
+2007,sudabeh mortezai
+2008,richard shepard
+2009,"mike diva, akiva schaffer"
+2010,trisha ziff
+2011,vasan bala
+2012,diego enrique osorno
+2013,pedring a. lopez
+2014,sam cullman
+2015,francesco imperato
+2016,stefon bristol
+2017,kate melville
+2018,aditya vikram sengupta
+2019,mandie fletcher
+2020,aijaz khan
+2021,gonzalo lópez-gallego
+2022,abby epstein
+2023,hepi mita
+2024,che sandoval
+2025,jean-bernard marlin
+2026,yee tung-shing
+2027,patricia font
+2028,yen cheng-kuo
+2029,"alex parkinson, richard da costa"
+2030,frant gwo
+2031,hao wu
+2032,felipe cano
+2033,gabriela tagliavini
+2034,lee jeong-beom
+2035,william bindley
+2036,manav shah
+2037,michael epstein
+2038,rachel lears
+2039,syamsul yusof
+2040,mangesh kanthale
+2041,herman yau
+2042,dar gai
+2043,sathyan anthikad
+2044,brian oakes
+2045,bille august
+2046,fab five freddie
+2047,sandra restrepo
+2048,sarthak dasgupta
+2049,jennifer kaytin robinson
+2050,renato de maria
+2051,alan rickman
+2052,ulises valencia
+2053,beyoncé knowles-carter
+2054,richard curtis
+2055,suparn verma
+2056,anant balani
+2057,soukarya ghosal
+2058,leena yadav
+2059,amitabha singh
+2060,hasan karacadağ
+2061,chris nelson
+2062,"lee kyoungmi, yim pilsung, jeon go-woon, kim jong-kwan"
+2063,john r. leonetti
+2064,jeremiah jones
+2065,brie larson
+2066,"rocky soraya, anggy umbara"
+2067,shelly chopra dhar
+2068,shanjey kumar perumal
+2069,tianyu zhao
+2070,shazia ali khan
+2071,erik white
+2072,owen egerton
+2073,"sam ""blitz"" bazawule"
+2074,swapnaneel jayakar
+2075,kyzza terrazas
+2076,john lee hancock
+2077,theo love
+2078,awi suryadi
+2079,raj babu
+2080,javier ruiz caldera
+2081,"chanon yingyong, phuwanit pholdee"
+2082,stuart sender
+2083,wenn v. deramas
+2084,joyce bernal
+2085,maryo j. de los reyes
+2086,"karan shivajirao chavan, vikram tanajirao patil"
+2087,amy schumer
+2088,richard loncraine
+2089,pia sukanya
+2090,yann gozlan
+2091,lukas dhont
+2092,"michael simon, matthew mcneil"
+2093,frank w chen
+2094,olivia m. lamasan
+2095,j.c. chandor
+2096,brian klein
+2097,"ibrahim bin mohamed, hasan aljaberi"
+2098,clark johnson
+2099,emmanuel mouret
+2100,conor allyn
+2101,nuel naval
+2102,keoni waxman
+2103,isao yukisada
+2104,a.r. murugadoss
+2105,fritz ofner
+2106,nottapon boonprakob
+2107,xavier gens
+2108,jonathan a. rosenbaum
+2109,franck phelizon
+2110,peter howitt
+2111,chiwetel ejiofor
+2112,"rodrigo salomón, pietro scappini"
+2113,miguel ángel vivas
+2114,carlos vermut
+2115,sridhar rangayan
+2116,michael blieden
+2117,pawan k shrivastava
+2118,mar targarona
+2119,aruna raje
+2120,alex lehmann
+2121,elisabeth vogler
+2122,parambrata chatterjee
+2123,woo min-ho
+2124,paul miller
+2125,michael del monte
+2126,suseenthiran
+2127,matt tyrnauer
+2128,prasanth varma
+2129,gangadhar salimath
+2130,daniel j. clark
+2131,marcelo galvão
+2132,shanawaz nellikunnil
+2133,lars kaalund
+2134,hari nath
+2135,saket chaudhary
+2136,tanuja chandra
+2137,"jackie van beek, madeleine sami"
+2138,sachin kamlakar khot
+2139,daniel monzón
+2140,rayka zehtabchi
+2141,tom stern
+2142,kelly duane de la vega
+2143,julio medem
+2144,johnny kevorkian
+2145,amshan kumar
+2146,"adam davis, jerry kolber, trey nelson, erich sturm"
+2147,"hsu chih-yen, mag hsu"
+2148,rick morales
+2149,michael d. black
+2150,dan gilroy
+2151,mamat khalid
+2152,amarjit virdi
+2153,nishil sheth
+2154,byun hyuk
+2155,zoe berriatúa
+2156,adam bhala lough
+2157,faozan rizal
+2158,mansore
+2159,kuntz agus
+2160,"hanung bramantyo, meisa felaroze"
+2161,jerrold tarog
+2162,"laura alvea, josé ortuño"
+2163,gastón duprat
+2164,"andy caballero, diego corsini"
+2165,seren yüce
+2166,jonathan helpert
+2167,andré d'elia
+2168,skye borgman
+2169,hashim nadeem khan
+2170,sarjun
+2171,feroz
+2172,syed atif ali
+2173,lee seung-won
+2174,rik reinholdtsen
+2175,gauravv k chawla
+2176,bent-jorgen perlmutt
+2177,hugo stuven
+2178,greg pritikin
+2179,"kobun shizuno, hiroyuki seshita"
+2180,kunal kohli
+2181,noor imran mithu
+2182,nonzee nimibutr
+2183,ísold uggadóttir
+2184,lorena munoz
+2185,genevieve nnaji
+2186,"terry gilliam, terry jones"
+2187,yanyong kuruaungkoul
+2188,lenin bharathi
+2189,kunihiko yuyama
+2190,ranjit jeyakodi
+2191,ram
+2192,john fortenberry
+2193,chris bould
+2194,"kevin booth, david johndrow"
+2195,paul m. green
+2196,julio fernández talamantes
+2197,walter c. miller
+2198,noriyuki abe
+2199,ellen brown
+2200,matt askem
+2201,rob zombie
+2202,álvaro brechner
+2203,rakesh mehta
+2204,eduardo chauvet
+2205,gonzalo bendala
+2206,noam murro
+2207,kheiron
+2208,susanne bier
+2209,irek dobrowolski
+2210,gilbert chan
+2211,rarecho
+2212,steve cheng
+2213,sam loh
+2214,jason lai
+2215,samit kakkad
+2216,"joel gallen, tig notaro"
+2217,prasobh vijayan
+2218,sriram raghavan
+2219,"elaine bogan, john sanford"
+2220,michael cuesta
+2221,david cronenberg
+2222,thom zimny
+2223,james marsh
+2224,sean olson
+2225,sigrid andrea bernardo
+2226,guillermo de oliveira
+2227,manoj beedha
+2228,alfonso cuarón
+2229,"john hoffman, nanfu wang"
+2230,marco risi
+2231,anne fletcher
+2232,marek losey
+2233,andy serkis
+2234,mat king
+2235,jacob joice
+2236,bert marcus
+2237,ahsan rahim
+2238,andrew lau wai-keung
+2239,cheang pou soi
+2240,enrique garcía meza
+2241,katarina launing
+2242,johnnie to
+2243,lawrence cheng
+2244,prakash balwant saini
+2245,nam ron
+2246,baljit singh deo
+2247,"leung lok man, luk kim-ching"
+2248,jazz boon
+2249,felix chong
+2250,dhanush
+2251,gary mak
+2252,liu jiang
+2253,"joseduardo giordano, sergio goyri jr."
+2254,alice rohrwacher
+2255,nandita das
+2256,romain gavras
+2257,sebastián hofmann
+2258,"denny lu, mike myhre"
+2259,clay kaytis
+2260,fernando colomo
+2261,robert vince
+2262,raditya dika
+2263,david paul meyer
+2264,daniel goldhaber
+2265,fred cavayé
+2266,"joel coen, ethan coen"
+2267,v c abhilash
+2268,nila madhab panda
+2269,timo tjahjanto
+2270,nakul singh sawhney
+2271,"nishanth ravindaran, jathin sanker raj"
+2272,swapna waghmare joshi
+2273,"aitor arregi, jon garaño"
+2274,erik matti
+2275,christopher guest
+2276,vincent kok
+2277,christian zübert
+2278,david mackenzie
+2279,tejas prabha vijay deoskar
+2280,matheus souza
+2281,sara dosa
+2282,bradley walsh
+2283,orson welles
+2284,morgan neville
+2285,indrajit nattoji
+2286,raj kumar gupta
+2287,remo d'souza
+2288,arnab chaudhuri
+2289,rana ranbir
+2290,"priyadarshan, kookie v. gulati"
+2291,vivek agnihotri
+2292,habib faisal
+2293,bobby roth
+2294,halder gomes
+2295,amitoj mann
+2296,b. unnikrishnan
+2297,madhur bhandarkar
+2298,sajid khan
+2299,saji surendran
+2300,ksshitij chaudhary
+2301,sundar c.
+2302,gary binkow
+2303,nikhil advani
+2304,navinder pal singh
+2305,kunal deshmukh
+2306,r. kannan
+2307,gaurav narayanan
+2308,kevin layne
+2309,jennifer m. kroot
+2310,akin omotoso
+2311,dani de la torre
+2312,tinge krishnan
+2313,aleksey german
+2314,sergio barrejón
+2315,sandi tan
+2316,vijay yelakanti
+2317,s.s. rajamouli
+2318,"joanna lombardi, bruno ascenzo"
+2319,kim jee-woon
+2320,rajesh touchriver
+2321,david lam
+2322,thiru
+2323,tom forrest
+2324,anik datta
+2325,shaad ali
+2326,gareth evans
+2327,paul urkijo alijo
+2328,johanna demetrakas
+2329,padraic mckinley
+2330,rizal mantovani
+2331,kief davidson
+2332,"rusty cundieff, darin scott"
+2333,kabir bhatia
+2334,chris eigeman
+2335,olaf de fleur
+2336,tamara jenkins
+2337,kavi raz
+2338,nick simon
+2339,"eric idle, aubrey powell"
+2340,anthony giordano
+2341,will yapp
+2342,eric idle
+2343,"terry hughes, ian macnaughton"
+2344,"roger graef, james rogan"
+2345,terry jones
+2346,ian macnaughton
+2347,albert sharpe
+2348,simranjit singh hundal
+2349,n. linguswamy
+2350,deep joshi
+2351,manjeet maan
+2352,shagufta rafique
+2353,tinu pappachan
+2354,amarpreet g s chabbra
+2355,paresh mokashi
+2356,rohit jugraj
+2357,atharv baluja
+2358,vishal bhardwaj
+2359,shashanka ghosh
+2360,puneet sira
+2361,aziz mirza
+2362,sameer sharma
+2363,chandan arora
+2364,rajan madhav
+2365,raaghav dar
+2366,ishi rudell
+2367,david lee miller
+2368,amit saxena
+2369,jaivi dhanda
+2370,suman ghosh
+2371,kabir khan
+2372,akshay akkineni
+2373,nidhi sharma
+2374,"mastan alibhai burmawalla, abbas alibhai burmawalla"
+2375,vipin parashar
+2376,vikram pradhan
+2377,vijay
+2378,sartaj singh pannu
+2379,ayaan mukherji
+2380,sidharth malhotra
+2381,saket behl
+2382,anjum shahzad
+2383,ken kwapis
+2384,monique gardenberg
+2385,han yan
+2386,jeremy saulnier
+2387,kim a. snyder
+2388,"álvaro longoria, gerardo olivares"
+2389,anthony byrne
+2390,"rashida jones, alan hicks"
+2391,ariel vromen
+2392,nicole holofcener
+2393,alessio cremonini
+2394,joram lürsen
+2395,madeleine gavin
+2396,"kevin r. adams, joe ksander"
+2397,ian samuels
+2398,franck ribière
+2399,peter ho
+2400,qaushiq mukherjee
+2401,onir
+2402,jatla siddartha
+2403,kanwal sethi
+2404,samuel jouy
+2405,shivam nair
+2406,jordan brady
+2407,todd biermann
+2408,patrick graham
+2409,mike clattenburg
+2410,han qing
+2411,ashwiny iyer tiwari
+2412,atlee kumar
+2413,ravi udyawar
+2414,r. balki
+2415,shree narayan singh
+2416,manuel martín cuenca
+2417,susan johnson
+2418,y. joon chung
+2419,rucha humnabadkar
+2420,mike newell
+2421,jake szymanski
+2422,abhishek varman
+2423,sabir khan
+2424,nikhil nagesh bhat
+2425,"xiaoxing yi, yoshitaka takeuchi, haoling li"
+2426,lauren miller rogen
+2427,"vikas bahl, nitesh tiwari"
+2428,khalid mohamed
+2429,sanjay leela bhansali
+2430,prem soni
+2431,prabhu deva
+2432,mandeep kumar
+2433,"jesse handsher, olivier roland"
+2434,pablo giorgelli
+2435,ted emery
+2436,tony datis
+2437,"raúl campos, jan suter"
+2438,ben young
+2439,kirby dick
+2440,chris jenkins
+2441,diego cohen
+2442,lee eung-bok
+2443,jody hill
+2444,samu fuentes
+2445,alexandre espigares
+2446,scott l. montoya
+2447,sam voutas
+2448,raj kaushal
+2449,"bo burnham, christopher storer"
+2450,k.c. bokadia
+2451,samir soni
+2452,juan antonio de la riva
+2453,"bert marcus, cyrus saidi"
+2454,shlok sharma
+2455,yayo herrero
+2456,matt palmer
+2457,rodrigo triana
+2458,elaine mcmillion sheldon
+2459,federico d'alessandro
+2460,seiji mizushima
+2461,myriam aziza
+2462,gerard barrett
+2463,rene liu
+2464,"madeleine parry, jon olb"
+2465,"zoya akhtar, karan johar, anurag kashyap, dibakar banerjee"
+2466,oded raz
+2467,"mariana tschudi, héctor gálvez"
+2468,ramón salazar
+2469,eduardo mendoza de echave
+2470,craig johnson
+2471,jeffrey walker
+2472,shadab khan
+2473,nattawut poonpiriya
+2474,felix starck
+2475,norberto lópez amado
+2476,alex richanbach
+2477,tig notaro
+2478,brit mcadams
+2479,mercedes cordova
+2480,hayao miyazaki
+2481,"anthony abrams, adam larson broder"
+2482,"trey borzillieri, barbara schroeder"
+2483,bobcat goldthwait
+2484,dani levy
+2485,sonny mallhi
+2486,andrew niccol
+2487,isabelle nanty
+2488,"rob epstein, jeffrey friedman"
+2489,antonio morabito
+2490,rene bueno
+2491,john woo
+2492,patricia ferreira
+2493,jimmy henderson
+2494,devashish makhija
+2495,amal neerad
+2496,"fluvio iannuci, roly santos"
+2497,julius r. nasso
+2498,lucas figueroa
+2499,alex timbers
+2500,alfonso rodríguez
+2501,"guillermo garcia, david cantolla"
+2502,priyadarshan
+2503,dito montiel
+2504,vicente villanueva
+2505,amit roy
+2506,teddy lussi-modeste
+2507,dawn porter
+2508,ben shelton
+2509,curro velázquez
+2510,robert smigel
+2511,max amini
+2512,"jason sussberg, david alvarado"
+2513,"célia catunda, kiko mistrorigo, rodrigo eba"
+2514,sang-ho yeon
+2515,andy fickman
+2516,olivia milch
+2517,"david sington, heather walsh"
+2518,pedro coutinho
+2519,joshua marston
+2520,eleonore pourriat
+2521,peter webber
+2522,peter orton
+2523,marja lewis ryan
+2524,ryan koo
+2525,hatem khraiche
+2526,derek peck
+2527,jennifer morrison
+2528,hèctor hernández vicens
+2529,kader aoun
+2530,abhay chopra
+2531,diego lerman
+2532,farah khan
+2533,ananda krishnan
+2534,amol palekar
+2535,joe miale
+2536,olivia newman
+2537,jared stern
+2538,lennart ruff
+2539,dan lucchesi
+2540,mijke de jong
+2541,daryl hannah
+2542,michael larnell
+2543,advait chandan
+2544,brandon camp
+2545,alison klayman
+2546,yoo byung-jae
+2547,sunao katabuchi
+2548,johan brisinger
+2549,maria sadowska
+2550,yang woo-seok
+2551,john l. spencer
+2552,victor cook
+2553,kazuya murata
+2554,martin zandvliet
+2555,uraaz bahl
+2556,"paul solet, rick benattar"
+2557,ben wallis
+2558,robin aubert
+2559,mitch gould
+2560,lars büchel
+2561,amit barot
+2562,carlo padial
+2563,"mike smith, john paul tremblay, robb wells"
+2564,milind dhaimade
+2565,hong-seon kim
+2566,duncan jones
+2567,hang-jun jang
+2568,fumihiko sori
+2569,mariano baez
+2570,stephanie laing
+2571,anand tiwari
+2572,"roberta grossman, sophie sartain"
+2573,david bruckner
+2574,tamta gabrichidze
+2575,ari sandel
+2576,julius onah
+2577,ildiko enyedi
+2578,you-jeong chang
+2579,dan forrer
+2580,selima taibi
+2581,marty callner
+2582,"javier ambrossi, javier calvo"
+2583,david wain
+2584,isaac florentine
+2585,scott moran
+2586,"santiago diaz, pablo martin farina"
+2587,charles stone iii
+2588,"matt angel, suzanne coote"
+2589,chris baugh
+2590,"latif faiziyev, umesh mehra"
+2591,rajiv mehra
+2592,rhiannon bannenberg
+2593,david mrnka
+2594,maya forbes
+2595,choi jin-seong
+2596,milind rau
+2597,craig elrod
+2598,jose manuel colón
+2599,yasuhiro irie
+2600,alethea jones
+2601,jay baruchel
+2602,ludovic bernard
+2603,noël wells
+2604,patrick brice
+2605,daniel kontur
+2606,diego kaplan
+2607,"marco deufemia, justin g. dyck"
+2608,lydia tenaglia
+2609,varun narvekar
+2610,seth henrikson
+2611,benson lee
+2612,umesh mehra
+2613,drew heriot
+2614,joel crawford
+2615,michael barrett
+2616,"evan spiridellis, jeff gill"
+2617,leopoldo aguilar
+2618,"nana ekvtimishvili, simon gross"
+2619,olivier jean-marie
+2620,"myles kane, josh koury"
+2621,shreyas talpade
+2622,jon alpert
+2623,ibai abad
+2624,"barbra streisand, jim gable"
+2625,josh wakely
+2626,jacob kornbluth
+2627,alain desrochers
+2628,go koga
+2629,christian charles
+2630,bronwen hughes
+2631,john ridley
+2632,pali yahya
+2633,alo sarkar
+2634,iñaki dorronsoro
+2635,"ali bin matar, ibrahim bin mohamed"
+2636,ali samadi ahadi
+2637,d ho
+2638,judah friedlander
+2639,errol morris
+2640,alex israel
+2641,griffin dunne
+2642,katherine dieckmann
+2643,"heidi ewing, rachel grady"
+2644,jeremy rush
+2645,reem kherici
+2646,ranjit tiwari
+2647,david stubbs
+2648,shakti samanta
+2649,mahmoud al massad
+2650,yesim ustaoglu
+2651,jan suter
+2652,lucy cohen
+2653,mahmoud sabbagh
+2654,borja cobeaga
+2655,david france
+2656,brandon jones
+2657,geun-hyun cho
+2658,carlos therón
+2659,francesco carrozzini
+2660,karen j. lloyd
+2661,vibeke idsøe
+2662,"carlos algara, alejandro martinez-beltran"
+2663,jacob lamendola
+2664,ritesh batra
+2665,dylan howitt
+2666,nabil ayouch
+2667,louis j. horvitz
+2668,warren p. sonoda
+2669,álex de la iglesia
+2670,chris moukarbel
+2671,ana lily amirpour
+2672,michael bonfiglio
+2673,yance ford
+2674,fernando lebrija
+2675,"rodrigo toro, francisco schultz"
+2676,josé miguel contreras
+2677,toshiyuki kubooka
+2678,todd s. yellin
+2679,mohammed hussain
+2680,eli craig
+2681,shammi kapoor
+2682,florian schnell
+2683,"josh izenberg, wynn padula"
+2684,"gastón duprat, mariano cohn"
+2685,gary wang
+2686,raz degan
+2687,israel adrián caetano
+2688,"mariano cohn, gastón duprat"
+2689,sarah adina smith
+2690,cate shortland
+2691,adam wingard
+2692,"daniel lindsay, t.j. martin"
+2693,tommy wirkola
+2694,jean-claude la marre
+2695,jorge hernandez aldana
+2696,will canon
+2697,rob silvestri
+2698,matthias hoene
+2699,bryan fogel
+2700,fabrice du welz
+2701,john butler
+2702,ali scher
+2703,maz jobrani
+2704,isaac rentz
+2705,christopher murray
+2706,claude lelouch
+2707,vanessa roth
+2708,jim strouse
+2709,kasper collin
+2710,fazila allana
+2711,eric abrams
+2712,agustí villaronga
+2713,harry chaskin
+2714,marti noxon
+2715,stefan brogren
+2716,pat healy
+2717,nicolas brossette
+2718,serdar akar
+2719,lekh tandon
+2720,doesjka van hoogdalem
+2721,sushil majumdar
+2722,geetu mohandas
+2723,paulo oriol
+2724,oskar santos
+2725,bill d'elia
+2726,brian knappenberger
+2727,brent bonacorso
+2728,nitesh tiwari
+2729,"roy burdine, johnny castuciano"
+2730,jay bulger
+2731,"kip andersen, keegan kuhn"
+2732,iginio straffi
+2733,arun chidambaram
+2734,caio cobra
+2735,cal seville
+2736,michael john warren
+2737,chang-min lee
+2738,oren uziel
+2739,manika sharma
+2740,"timo tjahjanto, kimo stamboel"
+2741,jun-seong kim
+2742,edward cotterill
+2743,onur tukel
+2744,jayaprakash radhakrishnan
+2745,rob meyer
+2746,anita barbosa
+2747,ketan mehta
+2748,daniel wilner
+2749,alberto rodríguez
+2750,joe piscatella
+2751,rahul dholakia
+2752,jean-patrick benes
+2753,hiroyuki seshita
+2754,"lygia barbosa da silva, eliane brum"
+2755,kundan shah
+2756,so yong kim
+2757,alina teodorescu
+2758,filip renc
+2759,"dylan bank, daniel dimauro, morgan pehme"
+2760,sean foley
+2761,pierre coré
+2762,liz plonka
+2763,jeff garlin
+2764,"jan suter, raúl campos"
+2765,michael barnett
+2766,jessica yu
+2767,k. rajagopal
+2768,praveen nischol
+2769,lucien jean-baptiste
+2770,sean cisterna
+2771,sudhanshu saria
+2772,dilip mehta
+2773,"isaki lacuesta, isa campo"
+2774,kitty green
+2775,evan katz
+2776,gauri shinde
+2777,oliver schmitz
+2778,"felix herngren, måns herngren"
+2779,"jill bauer, ronna gradus, rashida jones"
+2780,fernando coimbra
+2781,adam leon
+2782,andrea molaioli
+2783,marie madinier
+2784,miguel ángel lamata
+2785,steven brill
+2786,antonio serrano
+2787,"grant s. johnson, ippsie jones"
+2788,joe swanberg
+2789,louis c.k.
+2790,alexandre reinecke
+2791,jamal hill
+2792,k. ramanlal
+2793,maris curran
+2794,avinash arun
+2795,jason spingarn-koff
+2796,a. salaam
+2797,eduardo casanova
+2798,daniel burman
+2799,kike maíllo
+2800,laurent bouzereau
+2801,gordon anderson
+2802,charlie mcdowell
+2803,meghan o'hara
+2804,tommy o'haver
+2805,lonny price
+2806,sydney freeland
+2807,jung-woo park
+2808,james ivory
+2809,santosh sivan
+2810,erik canuel
+2811,"peter middleton, james spinney"
+2812,shashilal k. nair
+2813,marcel barrena
+2814,gerard mcmurray
+2815,selvamani selvaraj
+2816,"seth barrish, mike birbiglia"
+2817,lô politi
+2818,tomas portella
+2819,macon blair
+2820,keith scholey
+2821,juan pablo buscarini
+2822,thomas stuber
+2823,"sam dunn, scot mcfadyen"
+2824,raúl arévalo
+2825,matías bize
+2826,michael paul stephenson
+2827,colin dench
+2828,ricky gervais
+2829,"joachim fest, christian herrendoerfer"
+2830,"scott aukerman, akiva schaffer"
+2831,malik vitthal
+2832,joaquín mazón
+2833,jonás trueba
+2834,peter deluise
+2835,alejandra márquez abella
+2836,sébastien betbeder
+2837,adam randall
+2838,marco dutra
+2839,mario rouleau
+2840,aniruddha roy chowdhury
+2841,chester tam
+2842,hannes stöhr
+2843,andreas prochaska
+2844,maximilian erlenwein
+2845,burhan qurbani
+2846,hubert woroniecki
+2847,alistair legrand
+2848,mir-jean bou chaaya
+2849,jeannie gaffigan
+2850,babak anvari
+2851,emily hagins
+2852,greg richardson
+2853,uwe boll
+2854,mitch schauer
+2855,rohit mittal
+2856,"steve hickner, simon j. smith"
+2857,diego luna
+2858,jorge michel grau
+2859,"riki lindhome, jeremy konner"
+2860,vikram gandhi
+2861,sean hanish
+2862,sinan akkuş
+2863,matt bell
+2864,james hawes
+2865,elite zexer
+2866,james yukich
+2867,nic mathieu
+2868,chris kelly
+2869,roman gackowski
+2870,benjamin dickinson
+2871,sacha wolff
+2872,adam nimoy
+2873,elizabeth wood
+2874,robert mccullough jr.
+2875,shrihari sathe
+2876,ralph macchio
+2877,ricardo maldonado
+2878,vetrimaaran
+2879,linas phillips
+2880,jeff margolis
+2881,bauddhayan mukherji
+2882,maría jose cuevas
+2883,chris sparling
+2884,"jan suter, raúl campos delgado"
+2885,"shannon hartman, michelle caputo"
+2886,houda benyamina
+2887,volker weicker
+2888,manjeet singh
+2889,lorene machado
+2890,"kief davidson, richard ladkani"
+2891,richard mears
+2892,moto sakakibara
+2893,emilio martínez lázaro
+2894,osgood perkins
+2895,werner herzog
+2896,julien rambaldi
+2897,yvan attal
+2898,benjamin weill
+2899,roger gual
+2900,thomas sorriaux
+2901,clovis cornillac
+2902,jonathan demme
+2903,dave higby
+2904,richie smyth
+2905,riccardo pilizzeri
+2906,guilherme fontes
+2907,aamir bashir
+2908,david schalko
+2909,pieter kuijpers
+2910,prashant nair
+2911,"paul taublieb, jon freeman"
+2912,riccardo milani
+2913,"rod blackhurst, brian mcginn"
+2914,tony elliott
+2915,dan krauss
+2916,christopher louie
+2917,justin krook
+2918,michael drumm
+2919,alex coletti
+2920,john smithson
+2921,christopher martin
+2922,tom whitter
+2923,sian heder
+2924,karl mueller
+2925,allan ungar
+2926,"hemant gaba, pratim d. gupta, sudhish kamath, nalan kumarasamy, anu menon, sandeep mohan, qaushiq mukherjee, rajshree ojha, raja sen, abhinav shiv tiwari, suparn verma"
+2927,rob burnett
+2928,jon greenhalgh
+2929,"felix van groeningen, felix van groeningen"
+2930,rodolphe guenoden
+2931,jason krawczyk
+2932,sam wrench
+2933,"sophie robinson, lotje sodderland"
+2934,john lee
+2935,yuen wo-ping
+2936,alik sakharov
+2937,l. frazier
+2938,frank coraci
+2939,"gary howsam, mike smith, john paul tremblay, robb wells"
+2940,kristin hanggi
+2941,j. davis
+2942,"chris buck, jennifer lee, patrick osborne, lauren macmullan, john kahrs, nathan greno, byron howard, stevie wermers, dean wellins, kevin deters, roger allers, mike gabriel, mark henn"
+2943,andrew bujalski
+2944,adam dubin
+2945,cary joji fukunaga
+2946,"aaron hann, mario miscione"
+2947,evgeny afineevsky
+2948,"kristina goolsby, ashley york"
+2949,phil joanou
+2950,anthony pierce
+2951,jennifer phang
+2952,"jill bauer, ronna gradus"
+2953,mike fleiss
+2954,aziz ansari
+2955,david sampliner
+2956,"katy chevigny, ross kauffman"
+2957,wyatt cenac
+2958,"luis lopez, clay tweel"
+2959,"robert nixon, fisher stevens"
+2960,greg whiteley
+2961,jehane noujaim
+2962,jason moore
+2963,josh greenbaum
+2964,"will lovelace, dylan southern"
+2965,constance marks
+2966,larry elikann
+2967,robert markowitz
+2968,eric laneuville
+2969,joel oliansky
+2970,roy campanella ii
+2971,arthur allan seidelman
+2972,john herzfeld
+2973,buzz kulik
+2974,richard michaels
+2975,linda otto
+2976,roger young
+2977,"rob laduca, robert c. ramirez"
+2978,icíar bollaín
+2979,joe dante
+2980,ole bornedal
+2981,sorin dan mihalcescu
+2982,shane acker
+2983,kevin reynolds
+2984,shravan kumar
+2985,vijay milton
+2986,santwana bardoloi
+2987,atanu ghosh
+2988,"lyric r. cabral, david felix sutcliffe"
+2989,michael margolis
+2990,michael kennedy
+2991,óskar thór axelsson
+2992,karyn kusama
+2993,adam deyoe
+2994,leif tilden
+2995,melinda janko
+2996,sam upton
+2997,victor zarcoff
+2998,daniel stamm
+2999,daniel lee
+3000,"scott hussion, seth fuller"
+3001,richard donner
+3002,burr steers
+3003,david marmor
+3004,raymond wood
+3005,hasraf dulull
+3006,mike mills
+3007,"jon lucas, scott moore"
+3008,joey curtis
+3009,brian smrz
+3010,nicanor loreti
+3011,simon napier-bell
+3012,betty thomas
+3013,gaby dellal
+3014,iman brotoseno
+3015,shazia javed
+3016,hani hamdi
+3017,ruben fleischer
+3018,maciej dejczer
+3019,jack c. newell
+3020,andrew nackman
+3021,anggy umbara
+3022,victor levin
+3023,jonathan levine
+3024,toa fraser
+3025,bharat jain
+3026,trent haaga
+3027,nizar shafi
+3028,"meenu gaur, farjad nabi"
+3029,padmakumar narasimhamurthy
+3030,richard attenborough
+3031,stanley kubrick
+3032,stephen gyllenhaal
+3033,tom fassaert
+3034,mark williams
+3035,roman coppola
+3036,erik nelson
+3037,teo konuralp
+3038,jim fall
+3039,andy goddard
+3040,chris bell
+3041,"christopher s. rech, brandon kimber"
+3042,michael lennox
+3043,kees van oostrum
+3044,henry sarwer-foner
+3045,ishaan trivedi
+3046,asghar farhadi
+3047,maria burton
+3048,natalie portman
+3049,martin lawrence
+3050,adam shankman
+3051,gregory caruso
+3052,rusty nixon
+3053,oliver daly
+3054,midhun manuel thomas
+3055,chandrakant kulkarni
+3056,uttung shelar
+3057,"jung-ah im, seung-uk jo"
+3058,chad van de keere
+3059,"chris weitz, paul weitz"
+3060,daniela goggi
+3061,alfonso serrano maturino
+3062,julien christian lutz
+3063,julie taymor
+3064,"mike mccoy, scott waugh"
+3065,brett donowho
+3066,thierry donard
+3067,anne fontaine
+3068,sandeep chatterjee
+3069,kyle rideout
+3070,bryce wagoner
+3071,brittany andrews
+3072,nicolás lópez
+3073,terry loane
+3074,biswajeet bora
+3075,castille landon
+3076,"gervasio iglesias, alexis morante"
+3077,j. michael long
+3078,susan glatzer
+3079,eva vives
+3080,"don bluth, gary goldman, dan kuenster"
+3081,víctor garcía
+3082,charlie vaughn
+3083,chris blake
+3084,matthew hope
+3085,vincent perez
+3086,lee tamahori
+3087,richard rich
+3088,greg kohs
+3089,trey haley
+3090,atul malhotra
+3091,manmohan desai
+3092,khaled youssef
+3093,charlie siskel
+3094,sam mendes
+3095,brendon marotta
+3096,barak goodman
+3097,sharon grimberg
+3098,mark zwonitzer
+3099,wilson coneybeare
+3100,sarik andreasyan
+3101,tony kaye
+3102,andrea arnold
+3103,nick davis
+3104,jerry g. angelo
+3105,asif kapadia
+3106,karan bali
+3107,don bluth
+3108,"phil nibbelink, simon wells"
+3109,larry latham
+3110,perry lang
+3111,"ismail farouk, hazem fouda"
+3112,avinash das
+3113,carlos marques-marcet
+3114,tim blake nelson
+3115,luis mandoki
+3116,pan nalin
+3117,sohail tatari
+3118,paul serafini
+3119,juan zapata
+3120,sherif ismail
+3121,anirban majumder
+3122,ken barbet
+3123,manish jha
+3124,"david salzberg, christian tureaud"
+3125,"j.f. musial, josh vietze"
+3126,"christian desmares, franck ekinci"
+3127,christopher chambers
+3128,khaled el halafawy
+3129,nia dinata
+3130,jason winer
+3131,sarah smith
+3132,james l. brooks
+3133,john murlowski
+3134,sung-soo kim
+3135,mike nicoll
+3136,jason stone
+3137,mez tharatorn
+3138,"david morris, jacqui morris"
+3139,"fabrizio copano, augusto matte"
+3140,mike rossiter
+3141,gabe ibáñez
+3142,"anthony russo, joe russo"
+3143,levan tsikurishvili
+3144,ajay bahl
+3145,çagan irmak
+3146,alejandro g. iñárritu
+3147,shikha makan
+3148,josé eduardo belmonte
+3149,adam macdonald
+3150,dave patten
+3151,michael petroni
+3152,david chirchirillo
+3153,salima koroma
+3154,"sumitra bhave, sunil sukthankar"
+3155,justin lee
+3156,simon wells
+3157,phil weinstein
+3158,haissam hussain
+3159,zoe lister-jones
+3160,"aaron nee, adam nee"
+3161,tanit jitnukul
+3162,manop janjarasskul
+3163,adisorn tresirikasem
+3164,jordi llompart
+3165,raja menon
+3166,matthew salleh
+3167,adam wood
+3168,zeke norton
+3169,"andrew tan, michael goguen"
+3170,william lau
+3171,ezekiel norton
+3172,"conrad helten, ezekiel norton, michael goguen"
+3173,kyle newman
+3174,esteban vidal
+3175,dava whisenant
+3176,hrishikesh mukherjee
+3177,sagar sarhadi
+3178,lilibet foster
+3179,joshua caldwell
+3180,"volker arzt, angelika sigl"
+3181,mel smith
+3182,mike judge
+3183,bruce w. smith
+3184,"agasyah karim, khalid kashogi"
+3185,julian jarrold
+3186,fisher stevens
+3187,keiko yagi
+3188,katherine fairfax wright
+3189,rajeev chaudhari
+3190,anthony wonke
+3191,april mullen
+3192,adam marino
+3193,joe camp
+3194,tamer bassiouni
+3195,ted braun
+3196,dharmesh darshan
+3197,sushrut jain
+3198,majid majidi
+3199,jasbir bijendra bhati
+3200,joey kern
+3201,scott martin
+3202,kaspar astrup schröder
+3203,nick broomfield
+3204,stephen daldry
+3205,"vonda harrell, daniel camenisch"
+3206,indrasis acharya
+3207,"gajendra ahire, viju mane, girish mohite, ravi jadhav"
+3208,emanuel hoss-desmarais
+3209,marianna palka
+3210,ham tran
+3211,miguel conde
+3212,supavitra babul
+3213,mark harris
+3214,jesse gustafson
+3215,martin hodara
+3216,gabriela cowperthwaite
+3217,daniel alfredson
+3218,ethan hawke
+3219,ben younger
+3220,deane taylor
+3221,july hygreck
+3222,jean-françois richet
+3223,ted demme
+3224,abdellatif kechiche
+3225,woody allen
+3226,lev l. spiro
+3227,derek cianfrance
+3228,jeremy kenyon lockyer corbell
+3229,jay surridge
+3230,elvira lind
+3231,raj kapoor
+3232,"gabriel clarke, torquil jones"
+3233,brendan byrne
+3234,"geoffrey orthwein, andrew sullivan"
+3235,"byron howard, chris williams"
+3236,alexandra dean
+3237,jelle de jonge
+3238,arthur penn
+3239,kaizad gustad
+3240,"gary cohen, ross hockrow"
+3241,gayane petrosyan
+3242,richard sears
+3243,alê abreu
+3244,chris stokes
+3245,michael doneger
+3246,cecilia peck
+3247,jody lambert
+3248,simon baker
+3249,rian johnson
+3250,robert adetuyi
+3251,lu yang
+3252,vivieno caldinelli
+3253,mike wiluan
+3254,andreas johnsen
+3255,david mccracken
+3256,steve antin
+3257,jon manning
+3258,lee chang-dong
+3259,"cary murnion, jonathan milott"
+3260,daniel mann
+3261,daniele thompson
+3262,travis zariwny
+3263,néstor sánchez sotelo
+3264,asim abbasi
+3265,carlos bolado
+3266,scott marshall smith
+3267,lisa arnold
+3268,peter sattler
+3269,"harry elfont, deborah kaplan"
+3270,bernard rose
+3271,justin pemberton
+3272,noushad
+3273,mark o'connor
+3274,chito s. roño
+3275,todd haynes
+3276,brian de palma
+3277,matt piedmont
+3278,wong jing
+3279,richard brooks
+3280,"aaron hancox, michael mcnamara"
+3281,henrik martin dahlsbakken
+3282,shivendra singh dungarpur
+3283,nicholas hytner
+3284,harry baweja
+3285,aatmaram dharne
+3286,umer adil
+3287,arne birkenstock
+3288,dianne dreyer
+3289,garin nugroho
+3290,john curran
+3291,"charles a. nichols, iwao takamoto"
+3292,"wong jing, jason kwan"
+3293,john scheinfeld
+3294,gurvinder singh
+3295,"sidheswar shukla, asit mohapatra"
+3296,"asit mohapatra, shyamal chaulia"
+3297,"shyamal chaulia, asit mohapatra"
+3298,"rajiv chilaka, binayak das"
+3299,anuranjan premji
+3300,mark dindal
+3301,tom holland
+3302,tan bing
+3303,luis lopez
+3304,bedabrata pain
+3305,ken hughes
+3306,atom egoyan
+3307,andrew sandler
+3308,corbin bernsen
+3309,marita grabiak
+3310,gary wheeler
+3311,marc forster
+3312,mohsin ali
+3313,"fernando meirelles, katia lund"
+3314,pete travis
+3315,nick mead
+3316,louis leterrier
+3317,gregory hoblit
+3318,eric stoltz
+3319,jack starrett
+3320,chris perkel
+3321,john crowley
+3322,"lilly wachowski, lana wachowski, tom tykwer"
+3323,matt reeves
+3324,thomas carter
+3325,vishal mishra
+3326,saurav palodhi
+3327,florian gallenberger
+3328,zack whedon
+3329,robert kenner
+3330,craig goodwill
+3331,"jesse adang, syrine boulanouar"
+3332,van m. pham
+3333,gavin fitzgerald
+3334,abdul aziz hashad
+3335,stuart rosenberg
+3336,ben steele
+3337,henry selick
+3338,jason bourque
+3339,"micah bickham, galley molina"
+3340,kranti kanade
+3341,ang lee
+3342,don mancini
+3343,zachary heinzerling
+3344,chandrakant kanse
+3345,gary david goldberg
+3346,steve carr
+3347,amara cash
+3348,pablo parés
+3349,johnson esthappan
+3350,raj amit kumar
+3351,jean-marc vallée
+3352,philipp eichholtz
+3353,brendan toller
+3354,agnidev chatterjee
+3355,alexandros avranas
+3356,prawal raman
+3357,parveen kumar
+3358,julie dash
+3359,amman abbasi
+3360,"dylan haegens, bas van teylingen"
+3361,"noah baumbach, jake paltrow"
+3362,tom edmunds
+3363,tanveer khan
+3364,danny j. boyle
+3365,demetri martin
+3366,tanuj bhramar
+3367,jason priestley
+3368,neil labute
+3369,harrison smith
+3370,clay porter
+3371,"ken burns, artemis joukowsky"
+3372,dennis iliadis
+3373,camilla nielsson
+3374,christian gudegast
+3375,frederick cipoletti
+3376,sam patton
+3377,mohamed samy
+3378,christopher smith
+3379,michael feifer
+3380,saara cantell
+3381,clay staub
+3382,hark tsui
+3383,ben ryder
+3384,benoît jacquot
+3385,chia-liang liu
+3386,todd standing
+3387,benjamin arfmann
+3388,david lean
+3389,paul schrader
+3390,philip marlatt
+3391,charles martin smith
+3392,"mahin ibrahim, austin kolodney, will lowell, david beier, dave dorsey, xu zhang, alana waksman, jon yonkondy, drue metz, brandon somerhalder"
+3393,jared hess
+3394,troy nixey
+3395,caradog w. james
+3396,daniel gordon
+3397,mike birbiglia
+3398,john patrick shanley
+3399,m.j. isakson
+3400,bo welch
+3401,"scott mosier, yarrow cheney"
+3402,rob cohen
+3403,colin teague
+3404,doug lefler
+3405,patrik syversen
+3406,greg macgillivray
+3407,tristan ferland milewski
+3408,reiner holzemer
+3409,afia nathaniel
+3410,eeshwar nivas
+3411,emma hatherley
+3412,dave green
+3413,anthony lucero
+3414,will gluck
+3415,bruce gowers
+3416,ajithkumar
+3417,harjit singh
+3418,philipp stölzl
+3419,federico lemos
+3420,bassam kurdali
+3421,john bridcut
+3422,sebastian gutierrez
+3423,"fabien beziat, hugues nancy"
+3424,"hugues nancy, fabien beziat"
+3425,nils tavernier
+3426,jon spira
+3427,michael thelin
+3428,riri riza
+3429,neil triffett
+3430,greg coolidge
+3431,ajay phansekar
+3432,denis villeneuve
+3433,jenny carchman
+3434,jason james
+3435,robert clouse
+3436,kurt wimmer
+3437,wojciech marczewski
+3438,marcelo gonzález
+3439,valeria golino
+3440,robi michael
+3441,alex garland
+3442,james lee
+3443,stuart baird
+3444,"anders sømme hammer, marius arnesen, klaus erik okstad, olav njaastad"
+3445,michael whitton
+3446,joseph mbah
+3447,benny fine
+3448,matt toronto
+3449,"sedat kirtan, kubilay sarikaya"
+3450,keith l. smith
+3451,nagraj manjule
+3452,shadi ali
+3453,ian barber
+3454,terry gilliam
+3455,norman jewison
+3456,biyi bandele
+3457,luke jurevicius
+3458,ari levinson
+3459,tony zierra
+3460,james wong
+3461,david r. ellis
+3462,gianfranco rosi
+3463,sabal singh shekawat
+3464,arthur muhammad
+3465,nirpal bhogal
+3466,keith malloy
+3467,andrew renzi
+3468,gerry blaksley
+3469,cheh chang
+3470,marc abraham
+3471,"kang cheng, shan hua"
+3472,asri bendacha
+3473,juan manuel cotelo
+3474,"mark helenowski, kevin pang"
+3475,dean wright
+3476,mark murphy
+3477,richard miron
+3478,"jon carey, adam darke"
+3479,fred m. wilcox
+3480,maya zinshtein
+3481,lee fulkerson
+3482,seth gordon
+3483,trudie styler
+3484,marc levin
+3485,"wade allain-marcus, jesse allain-marcus"
+3486,jude okwudiafor johnson
+3487,marcus nispel
+3488,simon verhoeven
+3489,heber cannon
+3490,alastair fothergill
+3491,bob rose
+3492,le van kiet
+3493,adam del giudice
+3494,hoyt yeatman
+3495,fellipe barbosa
+3496,pavel parkhomenko
+3497,ifa isfansyah
+3498,rudy soedjarwo
+3499,hiroshi katagiri
+3500,manbhavan singh
+3501,p.k. baaburaaj
+3502,david grossman
+3503,guy vasilovich
+3504,nicholas stoller
+3505,david silberg
+3506,rich ragsdale
+3507,"kazuchika kise, masahiko murata"
+3508,kazuchika kise
+3509,partho ghosh
+3510,"vincente minnelli, charles walters"
+3511,sally potter
+3512,brett whitcomb
+3513,harold cronk
+3514,"jedd wider, todd wider"
+3515,gordon chan
+3516,michael mason
+3517,francis lee
+3518,takuya inaba
+3519,sam de jong
+3520,ivan sen
+3521,mark landre gould
+3522,neslihan yesilyurt
+3523,chris mccoy
+3524,wendy jo carlton
+3525,tarek abdel moaty
+3526,henrik ruben genz
+3527,justin chon
+3528,robert altman
+3529,mathieu kassovitz
+3530,ananth narayan mahadevan
+3531,tanuj chopra
+3532,nanette burstein
+3533,eric juhola
+3534,anjali nayar
+3535,james woodroffe
+3536,ali taner baltacı
+3537,"shinji aramaki, mamoru oshii, hideki futamura, toshiyuki kanno, tomoki kyoda, koichi mashimo, yasushi muraki, daisuke nishio, frank o'connor, koji sawai, joseph chou, hiroshi yamazaki"
+3538,ian kirby
+3539,satish kaushik
+3540,john irvin
+3541,akram farouk
+3542,johnny martin
+3543,tim van someren
+3544,"joe dietsch, louie gibson"
+3545,luis javier m. henaine
+3546,"robert osman, nathanael wiseman"
+3547,ilya naishuller
+3548,"jon hurwitz, hayden schlossberg"
+3549,danny leiner
+3550,daniel raim
+3551,ah loong
+3552,ron davis
+3553,"justin bare, matthew miele"
+3554,jon schnitzer
+3555,brant sersen
+3556,eddie martin
+3557,andrew c. erin
+3558,quinn lasher
+3559,elle callahan
+3560,ana kokkinos
+3561,kelly noonan
+3562,david mirkin
+3563,huang jianming
+3564,"tom gianas, ross r. shuman"
+3565,christel gibson
+3566,rod blackhurst
+3567,corey yuen
+3568,timothy woodward jr.
+3569,shawn arranha
+3570,liu jie
+3571,scott hicks
+3572,lucy van beek
+3573,jennifer lynch
+3574,vishnu govindhan
+3575,daniel ablin
+3576,asim raza
+3577,"ali taner baltacı, cem yılmaz"
+3578,neil armfield
+3579,"anthony scott burns, nicholas mccarthy, adam egypt mortimer, gary shore, kevin smith, sarah adina smith, scott stewart, kevin kolsch, dennis widmyer"
+3580,will allen
+3581,note chern-yim
+3582,rakshith thirthahalli
+3583,anindya chatterjee
+3584,bille woodruff
+3585,mike disa
+3586,sudip bandyopadhyay
+3587,brodje wemboendja
+3588,ayush raina
+3589,marty stalker
+3590,scott cooper
+3591,michael polish
+3592,max mcgill
+3593,akiva schaffer
+3594,janusz majewski
+3595,genndy tartakovsky
+3596,mark tonderai
+3597,sandy chronopoulos
+3598,ziga virc
+3599,tom o'dell
+3600,ken marino
+3601,lionel c. martin
+3602,jocelyn moorhouse
+3603,cal saville
+3604,amar gupte
+3605,"sam liu, frank paur"
+3606,raj kanwar
+3607,drew casson
+3608,jonathan mostow
+3609,matt kugelman
+3610,gabriel grieco
+3611,"benjamin turner, gabe turner"
+3612,mary mazzio
+3613,laura vanzee taylor
+3614,feng xiaogang
+3615,adam sjöberg
+3616,chuck russell
+3617,douglas mcgrath
+3618,maria demeshkina peek
+3619,ken loach
+3620,steve race
+3621,brett harvey
+3622,law wing-cheong
+3623,sachin
+3624,tony leondis
+3625,karey kirkpatrick
+3626,walerian borowczyk
+3627,taron lexton
+3628,aytaç ağırlar
+3629,eric zaragosa
+3630,suman mukhopadhyay
+3631,jonathan baker
+3632,elizabeth chai vasarhelyi
+3633,brad bird
+3634,sanjeev gupta
+3635,john stewart muller
+3636,luca vullo
+3637,iain softley
+3638,k. subhash
+3639,eugenio derbez
+3640,michael gallagher
+3641,patricia rozema
+3642,charles officer
+3643,john trengove
+3644,kedar shinde
+3645,jacob schwab
+3646,leo riley
+3647,v. k. prakash
+3648,manish tiwary
+3649,ismail farouk
+3650,zatella beatty
+3651,young jun lee
+3652,"mathias malzieu, stéphane berla"
+3653,"harvey glazer, stuart stone"
+3654,stuart orme
+3655,dustin nguyen
+3656,azfar jafri
+3657,gerry hoban
+3658,c. fitz
+3659,joe boyd
+3660,david gelb
+3661,radhu karmakar
+3662,john edginton
+3663,ashim ahluwalia
+3664,andrew stanton
+3665,bill oliver
+3666,toby haynes
+3667,amardeep singh gill
+3668,susannah heath-eves
+3669,nora ephron
+3670,salim akil
+3671,phil morrison
+3672,"lana wachowski, lilly wachowski"
+3673,kathryn bigelow
+3674,sanjay gupta
+3675,kranti redkar
+3676,tinnu anand
+3677,jijo pancode
+3678,pa. ranjith
+3679,buta singh
+3680,"roger allers, gaëtan brizzi, paul brizzi, joan c. gratz, mohammed saeed harib, tomm moore, nina paley, bill plympton, joann sfar, michael socha"
+3681,pooja bhatt
+3682,rupert jones
+3683,dhilip kumar
+3684,sai paranjape
+3685,alphonso j. wesson
+3686,vineeth anil
+3687,ken burns
+3688,"leslie small, tim story"
+3689,lori kaye
+3690,subhash ghai
+3691,"surya s.j., sunil kumar agrawal"
+3692,sudipto roy
+3693,john stockwell
+3694,steven gomez
+3695,frédéric tonolli
+3696,paul tanter
+3697,attila till
+3698,paul katis
+3699,felix thompson
+3700,jeffrey w. byrd
+3701,steve greenwood
+3702,"peter farrelly, bobby farrelly"
+3703,deniz gamze ergüven
+3704,woo ming jin
+3705,"frank capra, joris ivens"
+3706,alex proyas
+3707,jonathan taylor
+3708,"joachim rønning, espen sandberg"
+3709,gulzar
+3710,hans petter moland
+3711,"munjal shroff, tilak shetty"
+3712,tilak shetty
+3713,oliver blackburn
+3714,william h. macy
+3715,remy kohli
+3716,stephen chow
+3717,andrés couturier
+3718,stanley tong
+3719,suresh pillai
+3720,yusuf pirhasan
+3721,devin chanda
+3722,samir karnik
+3723,"leandro mark, nicolás silbert"
+3724,giulio base
+3725,alejandro lozano
+3726,syed ahmad afzal
+3727,sopon sukdapisit
+3728,chris nahon
+3729,r. ellis frazier
+3730,jaki bradley
+3731,kazuaki kiriya
+3732,massy tadjedin
+3733,"damien piscarel, florent bodin"
+3734,emmanuel amara
+3735,anand tucker
+3736,roy allen smith
+3737,ron myrick
+3738,b.n. shajeer sha
+3739,vic armstrong
+3740,yang lei
+3741,"andrew tan, stephen murray"
+3742,"anders falck, stinus morell vithner"
+3743,mario cambi
+3744,"pascal blanchard, sonia dauger, david dietz"
+3745,john huston
+3746,onur ünlü
+3747,jenna laurenzo
+3748,justin mcconnell
+3749,kevin peeples
+3750,alfonso arau
+3751,karim el sobky
+3752,ellen weissbrod
+3753,hua shan
+3754,tim bartley
+3755,robyn butler
+3756,ira sachs
+3757,zach clark
+3758,nick gomez
+3759,guy ritchie
+3760,steven knight
+3761,"james mather, steve saint leger"
+3762,"fernando sariñana, josé luis gutiérrez"
+3763,michael anderson
+3764,jakob verbruggen
+3765,"jennifer baichwal, nicholas de pencier"
+3766,sze yu lau
+3767,david wnendt
+3768,ignacio lópez escrivá
+3769,sarah moshman
+3770,charneice fox
+3771,saandeep patel
+3772,steven fine
+3773,ahmad samir farag
+3774,sridhar jetty
+3775,christian ditter
+3776,alma har'el
+3777,katherine brooks
+3778,ana quiroga
+3779,"radhika rao, vinay sapru"
+3780,prabhuraj
+3781,ticoy rodriguez
+3782,jayan vannery
+3783,pratim d. gupta
+3784,dylan c. brown
+3785,debaloy dey
+3786,george miller
+3787,"callie khouri, jesse v. johnson"
+3788,jim monaco
+3789,chun wong
+3790,ben patterson
+3791,aaron burns
+3792,luc vinciguerra
+3793,benjamin ree
+3794,amaan khan
+3795,li pei-chuan
+3796,sameer vidwans
+3797,michael winnick
+3798,keanu reeves
+3799,ben palmer
+3800,tathagata banerjee
+3801,john upchurch
+3802,tom o'brien
+3803,michael roberts
+3804,rahat kazmi
+3805,clive tonge
+3806,nathan landeg
+3807,pulkit
+3808,everardo gout
+3809,david raynr
+3810,david batty
+3811,deepika narayan bhardwaj
+3812,eric drath
+3813,"leo riley, eric radomski"
+3814,hiromasa yonebayashi
+3815,shekhar kapur
+3816,ui-seok jo
+3817,pablo d'alo abba
+3818,"sudesh manjrekar, atul kale"
+3819,daniel noah
+3820,philip yung
+3821,"hassan hegazy, shady ali"
+3822,"bob hercules, rita coburn whack"
+3823,samuel d. pollard
+3824,jesús magaña vázquez
+3825,nathan morlando
+3826,mina shum
+3827,jacek koprowicz
+3828,"paul berczeller, mark radice"
+3829,binu ulahhannan
+3830,bob odenkirk
+3831,shin-yeon won
+3832,"janet tobias, claus wehlisch"
+3833,barry sonnenfeld
+3834,john barnard
+3835,santosh manjrekar
+3836,bharat nalluri
+3837,gus van sant
+3838,anil thomas
+3839,gavin o'connor
+3840,keiichi hara
+3841,liv ullmann
+3842,kenny young
+3843,jennifer siebel newsom
+3844,barbara kopple
+3845,julia hart
+3846,david fairhead
+3847,david blair
+3848,osman ali
+3849,"anna boden, ryan fleck"
+3850,munish bhardwaj
+3851,ted geoghegan
+3852,william monahan
+3853,martin rosete
+3854,brett ratner
+3855,ahmed el gendy
+3856,holger tappe
+3857,steve sacks
+3858,"steve ball, andrew duncan"
+3859,"william lau, sylvain blais"
+3860,dustin mckenzie
+3861,"victor dal chele, alfred gimeno"
+3862,"mike fetterly, steve sacks"
+3863,"dan fraga, william lau"
+3864,"audu paden, eric radomski"
+3865,"dustin mckenzie, andrew duncan, audu paden"
+3866,"dustin mckenzie, steve sacks"
+3867,rachel bell
+3868,barry jenkins
+3869,antoine bardou-jacquet
+3870,jami
+3871,chad hartigan
+3872,michael mayer
+3873,avadhoot gupte
+3874,jennifer peedom
+3875,"peter farrelly, will graham, steve carr, griffin dunne, steve brill, james duffy, jonathan van tulleken, elizabeth banks, patrik forsberg, brett ratner, rusty cundieff, james gunn"
+3876,tomer heymann
+3877,anthony chan
+3878,craig gillespie
+3879,"alexandre heboyan, benoît philippon"
+3880,james bobin
+3881,"lewis milestone, carol reed"
+3882,bruce mcdonald
+3883,waymon boone
+3884,dash shaw
+3885,nathaniel warsh
+3886,alessandro pepe
+3887,claude barras
+3888,"ishi rudell, jayson thiessen"
+3889,"jayson thiessen, ishi rudell"
+3890,"siu-hung chung, wong jing"
+3891,nick cassavetes
+3892,atsajun sattakovit
+3893,simon curtis
+3894,moataz el tony
+3895,sabu varghese
+3896,"krishna agazzi, filippo gastaldi"
+3897,dennis bartok
+3898,"ben bowie, geoff luck"
+3899,heidi saman
+3900,natalia valdebenito
+3901,sonia kennebeck
+3902,gene quintano
+3903,jon turteltaub
+3904,"roman atwood, ben pluimer"
+3905,chad l. scheifele
+3906,george stevens
+3907,josh webber
+3908,arun vaidyanathan
+3909,jordana spiro
+3910,kelly reichardt
+3911,anthony bell
+3912,tim maltby
+3913,"richard finn, tim maltby"
+3914,"kiki goshay, jacqueline monetta"
+3915,rushmore denooyer
+3916,martin gorst
+3917,giulia clark
+3918,sarah holt
+3919,terri randall
+3920,doug hamilton
+3921,peter fison
+3922,graham townsley
+3923,"paula apsell, kirk wolfinger"
+3924,oliver twinch
+3925,llewellyn m. smith
+3926,daniel mccabe
+3927,peter yost
+3928,tom stubberfield
+3929,"noel dockstader, quinn kanaly"
+3930,gail willumsen
+3931,sacha gervasi
+3932,lesli linka glatter
+3933,peter pardini
+3934,sam taylor-johnson
+3935,"dana doron, uriel sinai"
+3936,enrico bisi
+3937,lars von trier
+3938,mat whitecross
+3939,"jacques perrin, jacques cluzaud"
+3940,luke sparke
+3941,lewis milestone
+3942,nacho g. velilla
+3943,shawn crahan
+3944,poj arnon
+3945,clarence yiu-leung fok
+3946,heitor dhalia
+3947,pradip kurbah
+3948,charlie lightening
+3949,simon rumley
+3950,banjong pisanthanakun
+3951,morgan spurlock
+3952,tim rouhana
+3953,noah moskin
+3954,jasmine d'souza
+3955,nicolas winding refn
+3956,"bill guttentag, michael ware"
+3957,"roger allers, jill culton"
+3958,john h. lee
+3959,logan kibens
+3960,chia tang
+3961,peter mcdonnell
+3962,kiran narayanan
+3963,ben c. lucas
+3964,jayaraj rajasekharan nair
+3965,"mark franchetti, andrew meier"
+3966,anthony scott burns
+3967,"adam collins, luke radford"
+3968,paul spurrier
+3969,chandran narikode
+3970,jorge granier
+3971,piti jaturaphat
+3972,amber tamblyn
+3973,alex law
+3974,bhagyaraj
+3975,rebecca addelman
+3976,oren peli
+3977,gafoor y. elliyaas
+3978,jennie livingston
+3979,kevin hooks
+3980,dileep narayanan
+3981,paritosh painter
+3982,"paul reubens, wayne orr"
+3983,mohd khairul azri bin md noor
+3984,mark palansky
+3985,j.c. falcón
+3986,c.j. wallis
+3987,james foley
+3988,tony stone
+3989,karan lalit butani
+3990,"jean-loup felicioli, alain gagnol"
+3991,"ajay bhuyan, kunal kohli"
+3992,"banjong pisanthanakun, paween purikitpanya, songyos sugmakanan, parkpoom wongpoom, visute poolvoralaks"
+3993,abhishek saxena
+3994,"dana nachman, don hardy jr."
+3995,gajendra ahire
+3996,"oscar micheaux, spencer williams, richard e. norman, richard maurice"
+3997,"israel adrián caetano, bruno stagnaro"
+3998,christophe honoré
+3999,"daniel mann, joseph sargent"
+4000,jean-simon chartier
+4001,wim wenders
+4002,gabe klinger
+4003,steve mclean
+4004,"charlie haskell, koichi sakamoto"
+4005,james barr
+4006,ashish r. shukla
+4007,frank capra
+4008,"chris bell, josh alexander, greg young"
+4009,bhavik thakore
+4010,stephen cone
+4011,anurag singh
+4012,luis prieto
+4013,michael tolajian
+4014,richard correll
+4015,raphael erichsen
+4016,hari viswanath
+4017,manish gupta
+4018,"jeremy coon, tim skousen"
+4019,ding sheng
+4020,basu chatterjee
+4021,"phil johnston, rich moore"
+4022,eric khoo
+4023,sanjay dayma
+4024,kim sung-hoon
+4025,girish joshi
+4026,amir mohiuddin
+4027,husam el-gohari
+4028,nicholas ray
+4029,michael james regan
+4030,craig anderson
+4031,john milius
+4032,amitava bhattacharya
+4033,marina willer
+4034,"clementine malpas, leslie knott"
+4035,andy capper
+4036,shamyl othman
+4037,allen coulter
+4038,rené pérez joglar
+4039,"linda saffire, adam schlesinger"
+4040,vijay jayapal
+4041,"andrew lau wai-keung, andrew loo"
+4042,"jani lachauer, jakob schuh"
+4043,jon avnet
+4044,"devaki singh, luke kenny"
+4045,amit rai
+4046,pierfrancesco diliberto
+4047,nicholas winter
+4048,sylvester stallone
+4049,nancy schwartzman
+4050,mitch dickman
+4051,lenny abrahamson
+4052,matthew atkinson
+4053,"max lang, jani lachauer"
+4054,shweta basu prasad
+4055,roman polanski
+4056,john dahl
+4057,jay chandrasekhar
+4058,atanu mukherjee
+4059,jeeva
+4060,david l. cunningham
+4061,dharmendra suresh desai
+4062,alex infascelli
+4063,raman kumar
+4064,hakan yonat
+4065,michael seater
+4066,balu mahendra
+4067,ehtesham uddin
+4068,"kireet khurana, padmakumar narasimhamurthy"
+4069,sanjay soorkar
+4070,mohamed hamdy
+4071,partha chakraborty
+4072,k. gopinathan
+4073,"bruce macdonald, gabriel sabloff"
+4074,rajeev patil
+4075,glenn miller
+4076,venugopan
+4077,kamal sahani
+4078,v. scott balcerek
+4079,raj n. sippy
+4080,damon cardasis
+4081,jeffrey g. hunt
+4082,kevan peterson
+4083,dino risi
+4084,keenen ivory wayans
+4085,"hiroshi aoyama, kazumi fukushima, jim stenstrum"
+4086,edgar wright
+4087,wes craven
+4088,steven zaillian
+4089,malik bendjelloul
+4090,jay chou
+4091,billy ray
+4092,kasia uscinska
+4093,susannah ward
+4094,sam taplin
+4095,vicky matthews
+4096,"vicky matthews, gareth sacala"
+4097,louise wardle
+4098,kenneth müller
+4099,michael patrick king
+4100,max martini
+4101,sudesh manjrekar
+4102,krishna vamshi
+4103,gurudev bhalla
+4104,samar khan
+4105,raymond mcgrath
+4106,"adele k. thomas, richard bailey"
+4107,richard bailey
+4108,"jitendra tiwari, pranav singh"
+4109,destin daniel cretton
+4110,barney clay
+4111,adarsh eshwarappa
+4112,"banjong pisanthanakun, parkpoom wongpoom"
+4113,"fabio grassadonia, antonio piazza"
+4114,vivek wagh
+4115,m.j. bassett
+4116,jason cohen
+4117,anil sharma
+4118,robert kouba
+4119,dorian fernández-moris
+4120,gregg bishop
+4121,corey grant
+4122,ekachai uekrongtham
+4123,fredric lean
+4124,"colin strause, greg strause"
+4125,leslye headland
+4126,joe nussbaum
+4127,billy bob thornton
+4128,john maclean
+4129,alex winter
+4130,fred olen ray
+4131,jonathan ignatius green
+4132,ian macallister-mcdonald
+4133,nancy meyers
+4134,julius avery
+4135,jeffrey c. bell
+4136,"david allensworth, monière"
+4137,"jerry rothwell, reuben atlas"
+4138,sam o'steen
+4139,dan harris
+4140,mark sloper
+4141,sam raimi
+4142,"peter ramsey, rodney rothman, bob persichetti"
+4143,"david fairhead, anthony palmer"
+4144,tom mccarthy
+4145,harmony korine
+4146,storm saulter
+4147,christopher ray
+4148,adam alleca
+4149,alison e. rose
+4150,"ola flyum, david hebditch"
+4151,akiva goldsman
+4152,"arjun gourisaria, moinak biswas"
+4153,"chatchai katenut, manussa vorasingha, tanwarin sukkhapisit, poj arnon"
+4154,jon j. whelan
+4155,alex holmes
+4156,raj b. shetty
+4157,james sweeney
+4158,rowan athale
+4159,baz luhrmann
+4160,"ester gould, reijer zwaan"
+4161,andrew bergman
+4162,afonso poyart
+4163,j.m. berrios
+4164,stefano sollima
+4165,chayanop boonprakob
+4166,zakariya
+4167,benny fredman
+4168,saul dibb
+4169,joseph cross
+4170,kasper barfoed
+4171,partho sen-gupta
+4172,sumit das
+4173,kevin phillips
+4174,greg mottola
+4175,gordon parks
+4176,bryan singer
+4177,bruce mcculloch
+4178,matthew cooke
+4179,"anthony caronna, alexander smith"
+4180,matt wechsler
+4181,jamie m. dagg
+4182,"dan kwan, daniel scheinert"
+4183,derek yee
+4184,navneet behal
+4185,julien seri
+4186,"chris buck, kevin lima"
+4187,brian smith
+4188,ryu jung-woo
+4189,sonia lowman
+4190,john carchietta
+4191,kevin munroe
+4192,michael pressman
+4193,steve barron
+4194,einar gabbassov
+4195,natalia garagiola
+4196,"jevons au, zune kwok, chow kwun-wai, ng ka-leung, wong fei-pang"
+4197,"yann arthus-bertrand, michael pitiot"
+4198,damien leone
+4199,sukhbir singh
+4200,dheeraj berry
+4201,"mitzi vanessa arreola, amir galvan cervera"
+4202,matthew shoychet
+4203,pamela romanowsky
+4204,geoff anderson
+4205,esteban sapir
+4206,jee-woon kim
+4207,andrew douglas
+4208,"thurop van orman, john rice"
+4209,"denis hennelly, casey suchan"
+4210,jonathan sobol
+4211,christian duguay
+4212,andré øvredal
+4213,kurt voelker
+4214,elliot hegarty
+4215,"keith fulton, louis pepe"
+4216,"brian m. conley, nathan ives"
+4217,john ford
+4218,tommy avallone
+4219,rolfe kanefsky
+4220,philippe falardeau
+4221,"kevin ford, smriti keshari, eric schlosser"
+4222,"albert hughes, allen hughes"
+4223,olivier loustau
+4224,richard kelly
+4225,william brent bell
+4226,mark herman
+4227,neil jordan
+4228,ken kushner
+4229,nora twomey
+4230,stacy title
+4231,"graham phillips, parker phillips"
+4232,ofir raul graizer
+4233,bumpy
+4234,elliot silverstein
+4235,sean menard
+4236,jon gunn
+4237,tarek al eryan
+4238,craig moss
+4239,magdy al-hawwary
+4240,antonio chavarrías
+4241,john stephenson
+4242,michael buster
+4243,bob nelson
+4244,ari folman
+4245,andrew fleming
+4246,"kirk de micco, chris sanders"
+4247,marek piwowski
+4248,"jarrad paul, andrew mogel"
+4249,satish manwar
+4250,"frank oz, jim henson"
+4251,tariq khan
+4252,"peter mortimer, josh lowell"
+4253,"cecilia atán, valeria pivato"
+4254,blair hayes
+4255,william friedkin
+4256,"stephanie soechtig, jeremy seifert"
+4257,bette gordon
+4258,kieran darcy-smith
+4259,robert berlinger
+4260,paul andrew williams
+4261,james ponsoldt
+4262,david leveaux
+4263,michael samuels
+4264,david sington
+4265,jenée lamarque
+4266,"coerte voorhees, john voorhees"
+4267,rodrigo van der put
+4268,hugh wilson
+4269,meng hua ho
+4270,peter nicks
+4271,oliver frampton
+4272,scott walker
+4273,mario mattei
+4274,cody stokes
+4275,"doron paz, yoav paz"
+4276,paul shoulberg
+4277,kasra farahani
+4278,michel gondry
+4279,michael g. kehoe
+4280,mickey liddell
+4281,paco arango
+4282,maya gallus
+4283,chad archibald
+4284,"mark columbus, lauren hoekstra, sarah kruchowski, ryan moody, simon savelyev, vanita shastry, shadae lamar smith, jeremy david white"
+4285,damani baker
+4286,rudradeep bhattacharjee
+4287,rob w. king
+4288,isaac ezban
+4289,"philip einstein lipski, jørgen lerdam, amalie næsby fick"
+4290,frank oz
+4291,"femi oyeniran, kalvadour peterson"
+4292,"femi oyeniran, nicky slimting walker"
+4293,"ricky gervais, matthew robinson"
+4294,phyllida lloyd
+4295,"benjamin cohen, nicolas cotto"
+4296,robin swicord
+4297,karen moncrieff
+4298,alejandro agresti
+4299,timothy reckart
+4300,pieter-jan de pue
+4301,gillian armstrong
+4302,mark craig
+4303,"dennis scholl, kareem tabsch"
+4304,rob smat
+4305,"blake harris, chris bouchard"
+4306,mark osborne
+4307,brian o'malley
+4308,jay lyons
+4309,robert aldrich
+4310,fred durst
+4311,joshua oppenheimer
+4312,marco schnabel
+4313,"robert cannan, ross adam"
+4314,stanisław różewicz
+4315,johnny to
+4316,robert tate
+4317,"john mikulak, joshua brown"
+4318,"lilly wachowski, lana wachowski"
+4319,"ken burns, christopher loren ewers, erik ewers"
+4320,park in-je
+4321,william wyler
+4322,grant heslov
+4323,mads matthiesen
+4324,john banas
+4325,michael radford
+4326,stuart heisler
+4327,carly stone
+4328,"stefan aust, dirk laabs"
+4329,"lasse hallström, joe johnston"
+4330,john duigan
+4331,ben a. williams
+4332,mimi leder
+4333,alan j. pakula
+4334,jean-pierre devillers
+4335,stephen chbosky
+4336,joel schumacher
+4337,peggy holmes
+4338,bryan buckley
+4339,"peter lord, jeff newitt"
+4340,keerthi
+4341,"randall lobb, robert mccallum"
+4342,chan-sang lim
+4343,brian a. miller
+4344,martha coolidge
+4345,"ron clements, john musker"
+4346,na hyeon
+4347,john papola
+4348,"grant korgan, brian niles"
+4349,francis ford coppola
+4350,miriam chandy menacherry
+4351,kevin derek
+4352,shaina allen
+4353,"heber cannon, mariah moore, marston sawyers"
+4354,alison maclean
+4355,steve barker
+4356,dejan zečević
+4357,hadi el bagoury
+4358,lone scherfig
+4359,n.d. wilson
+4360,curtis hanson
+4361,christian e. christiansen
+4362,bruce robinson
+4363,austin stark
+4364,kristian levring
+4365,stephen amezdroz
+4366,chris renaud
+4367,giancarlo esposito
+4368,"william eubank, will eubank"
+4369,sunil soraya
+4370,krzysztof zanussi
+4371,thomas meadmore
+4372,kyle patrick alvarez
+4373,steven r. monroe
+4374,cosmo feilding-mellen
+4375,stephan rick
+4376,"will lockhart, cole d. pruitt"
+4377,tobe hooper
+4378,"mohammed el-tahawy, mohamed mostafa"
+4379,lena khan
+4380,leanne gater
+4381,robert schwentke
+4382,"brendan malloy, emmett malloy"
+4383,david koepp
+4384,"ben brewer, alex brewer"
+4385,david briggs
+4386,kevin donovan
+4387,"jean-pierre dardenne, luc dardenne"
+4388,mark neveldine
+4389,"ken burns, lynn novick"
+4390,"ossama abu el atta, tarek al eryan"
+4391,russell crowe
+4392,jay russell
+4393,robert eggers
+4394,kyle rankin
+4395,neil rawles
+4396,emil ben-shimon
+4397,laurent cantet
+4398,michael apted
+4399,victoria bromley
+4400,george mendeluk
+4401,peter foott
+4402,peter svatek
+4403,saheed arafath
+4404,charlotte zwerin
+4405,david shisgall
+4406,derek hui
+4407,wim bonte
+4408,raam reddy
+4409,bin bunluerit
+4410,benjamin ross
+4411,stephen hopkins
+4412,jordan ross
+4413,"william wyler, john sturges"
+4414,li jun
+4415,steve loter
+4416,sonny marler
+4417,"edward ellis, flor salcedo, aaron woolf"
+4418,beeban kidron
+4419,michael cumming
+4420,kyoko miyake
+4421,phil roman
+4422,roger spottiswoode
+4423,buddhadev dasgupta
+4424,sukum maetawanitch
+4425,jeffrey nachmanoff
+4426,wally pfister
+4427,richard bates jr.
+4428,"jon reiner, brad rothschild"
+4429,ron underwood
+4430,s.s. wilson
+4431,brent maddock
+4432,adam smith
+4433,jitender pawar
+4434,nicholas zeig-owens
+4435,"shaul schwarz, christina clusiau"
+4436,tekin girgin
+4437,henry hathaway
+4438,preston a. whitmore ii
+4439,"frank capra, john huston, hugh stewart, roy boulting, anthony veiller"
+4440,david soren
+4441,hidetaka inazuka
+4442,buz wallick
+4443,gary young
+4444,"susan lambert, stefan moore"
+4445,benedict andrews
+4446,paul feig
+4447,michael mazzola
+4448,chris burkard
+4449,jonathan glazer
+4450,sanjay patel
+4451,sherif mandour
+4452,jason reitman
+4453,pradeep verma
+4454,mario van peebles
+4455,ashu trikha
+4456,amanda micheli
+4457,gurinder chadha
+4458,brandon dickerson
+4459,david l.g. hughes
+4460,harvey lilley
+4461,gary michael schultz
+4462,p.t. kunju muhammad
+4463,ganesh kadam
+4464,kushal srivastava
+4465,ed lilly
+4466,bilal lashari
+4467,param gill
+4468,anu menon
+4469,rob mckittrick
+4470,"marc francis, max pugh"
+4471,"alex smith, andrew j. smith"
+4472,philip g. atwell
+4473,faraz haider
+4474,john michael mcdonagh
+4475,jack zagha kababie
+4476,marina zenovich
+4477,tiffanie hsu
+4478,max joseph
+4479,david serrano
+4480,jeremiah zagar
+4481,antoni krauze
+4482,chi fat chan
+4483,ashish r. mohan
+4484,"stephen donnelly, olly reid, jun falkenstein"
+4485,abel ferrara
+4486,trevor ryan
+4487,michael fahey
+4488,huang lei
+4489,rebecca harrison
+4490,josh mendoza
+4491,"rudy soedjarwo, riri riza"
+4492,"ritu sarin, tenzing sonam"
+4493,"heidi brandenburg, mathew orzel"
+4494,marek kanievska
+4495,paul raschid
+4496,benjamin turner
+4497,drew stone
+4498,"milla harrison-hansley, alicky sussman"
+4499,dhruv dhawan
+4500,"frank capra, anatole litvak"
+4501,paul dano
+4502,morgan matthews
+4503,mel stuart
+4504,pascale lamche
+4505,debra granik
+4506,zach braff
+4507,theo davies
+4508,adrian murray
+4509,bart freundlich
+4510,storm theunissen
+4511,david guy levy
+4512,yasir nawaz
+4513,lawrence kasdan
+4514,"jovanka vuckovic, annie clark, roxanne benjamin, karyn kusama"
+4515,n. chandra
+4516,abu bakr shawky
+4517,christian de vita
+4518,saratswadee wongsomphet
+4519,kirati nakintanon
+4520,mark risley
+4521,james brown
+4522,ivona juka
+4523,mu chu
+4524,chandra prakash dwivedi
+4525,majid al ansari
+4526,peter hewitt
+4527,mozez singh
